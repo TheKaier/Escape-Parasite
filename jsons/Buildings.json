@@ -1,0 +1,51 @@
+[
+    {
+        "name": "World Purification Complete",
+        "cost": 0,
+        //"isNationWonder": true,
+        "uniques":[
+        //"Unbuildable",
+        "Only available <when above [99] [Progress of world purification]>",
+        "Automatically built in all cities where it is buildable",
+        
+        ]
+    },
+    {
+        "name": "World Purification Ritual",
+        "cost": 250,
+        "isWonder": true,
+        "uniques":[
+        //"Unbuildable",
+        "Only available <when above [4] [Communication Text]>",
+        "Triggers a [World Purification War] event",
+        ]
+    },
+    {
+        "name": "Communication Tower",
+        "cost": 150,
+        //"isNationWonder": true,
+        "uniques":[
+        //"Unbuildable",
+        "Only available <when above [4] [Technical Information]>",
+        "Instantly consumes [5] [Technical Information]",
+        "Instantly provides [1] [Communication Text]",
+        "Remove [Communication Tower] [in this city] <hidden from users>",
+        ]
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+]

@@ -1,0 +1,65 @@
+[
+    {
+		"name": "Adaptation",
+		"resourceType": "Strategic",
+		"uniques": [
+		"Cannot be traded"//不能交易
+		"Stockpiled"//库存
+        //"Not shown on world screen",//不显示
+		]
+	},
+    {
+		"name": "Evolution Value",
+		"resourceType": "Strategic",
+		"uniques": [
+		"Cannot be traded"//不能交易
+		"Stockpiled"//库存
+        //"Not shown on world screen",//不显示
+		]
+	},
+    {
+		"name": "Communication Text",
+		"resourceType": "Strategic",
+		"uniques": [
+		//"Cannot be traded"//不能交易
+		"Stockpiled"//库存
+        //"Not shown on world screen",//不显示
+		]
+	},
+    {
+		"name": "Technical Information",
+		"resourceType": "Strategic",
+		"uniques": [
+		//"Cannot be traded"//不能交易
+		"Stockpiled"//库存
+        //"Not shown on world screen",//不显示
+		]
+	},
+    {
+		"name": "Progress of world purification",
+		"resourceType": "Strategic",
+		"uniques": [
+		"Cannot be traded"//不能交易
+		"Stockpiled"//库存
+        //"Not shown on world screen",//不显示
+		]
+	},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+]

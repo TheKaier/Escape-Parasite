@@ -1,0 +1,489 @@
+
+game.png
+size: 2048, 512
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+ResourceIcons/Communication Text
+  rotate: false
+  xy: 1460, 148
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ResourceIcons/Evolution Value
+  rotate: false
+  xy: 1668, 356
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ResourceIcons/Technical Information
+  rotate: false
+  xy: 1596, 148
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Flesh and blood
+  rotate: false
+  xy: 4, 4
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Flesh and blood
+  rotate: false
+  xy: 4, 4
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Beckon Stage I
+  rotate: false
+  xy: 4, 284
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Beckon Stage I
+  rotate: false
+  xy: 4, 284
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Beckon Stage I
+  rotate: false
+  xy: 4, 284
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Beckon Stage II
+  rotate: false
+  xy: 4, 76
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Beckon Stage II
+  rotate: false
+  xy: 4, 76
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Beckon Stage II
+  rotate: false
+  xy: 4, 76
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Beckon Stage III
+  rotate: false
+  xy: 212, 284
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Beckon Stage III
+  rotate: false
+  xy: 212, 284
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Beckon Stage III
+  rotate: false
+  xy: 212, 284
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Beckon Stage IV
+  rotate: false
+  xy: 212, 76
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Beckon Stage IV
+  rotate: false
+  xy: 212, 76
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Beckon Stage IV
+  rotate: false
+  xy: 212, 76
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Insect Spirit
+  rotate: false
+  xy: 1804, 356
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Insect Spirit
+  rotate: false
+  xy: 1804, 356
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+UnitIcons/Insect Spirit
+  rotate: false
+  xy: 1804, 356
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/[Adapted Species] [Armored Beast]
+  rotate: false
+  xy: 1596, 12
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/[Adapted Species] [Armored Beast]
+  rotate: false
+  xy: 1596, 12
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+UnitIcons/[Adapted Species] [Armored Beast]
+  rotate: false
+  xy: 1596, 12
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/[Adapted Species] [Hyperplastic Beast]
+  rotate: false
+  xy: 420, 284
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/[Adapted Species] [Hyperplastic Beast]
+  rotate: false
+  xy: 420, 284
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/[Adapted Species] [Hyperplastic Beast]
+  rotate: false
+  xy: 420, 284
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/[Adapted Species] [Predator Beast]
+  rotate: false
+  xy: 1732, 220
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/[Adapted Species] [Predator Beast]
+  rotate: false
+  xy: 1732, 220
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+UnitIcons/[Adapted Species] [Predator Beast]
+  rotate: false
+  xy: 1732, 220
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/[Adapted Species] [Toxic Sac Beast]
+  rotate: false
+  xy: 420, 76
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/[Adapted Species] [Toxic Sac Beast]
+  rotate: false
+  xy: 420, 76
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/[Adapted Species] [Toxic Sac Beast]
+  rotate: false
+  xy: 420, 76
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/[Exceptional Species] [Armored Beast]
+  rotate: false
+  xy: 628, 284
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/[Exceptional Species] [Armored Beast]
+  rotate: false
+  xy: 628, 284
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/[Exceptional Species] [Armored Beast]
+  rotate: false
+  xy: 628, 284
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/[Exceptional Species] [Hyperplastic Beast]
+  rotate: false
+  xy: 628, 76
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/[Exceptional Species] [Hyperplastic Beast]
+  rotate: false
+  xy: 628, 76
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/[Exceptional Species] [Hyperplastic Beast]
+  rotate: false
+  xy: 628, 76
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/[Exceptional Species] [Predator Beast]
+  rotate: false
+  xy: 836, 284
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/[Exceptional Species] [Predator Beast]
+  rotate: false
+  xy: 836, 284
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/[Exceptional Species] [Predator Beast]
+  rotate: false
+  xy: 836, 284
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/[Exceptional Species] [Toxic Sac Beast]
+  rotate: false
+  xy: 1732, 84
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/[Exceptional Species] [Toxic Sac Beast]
+  rotate: false
+  xy: 1732, 84
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+UnitIcons/[Exceptional Species] [Toxic Sac Beast]
+  rotate: false
+  xy: 1732, 84
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/[Primordial Species] [Armored Beast]
+  rotate: false
+  xy: 836, 76
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/[Primordial Species] [Armored Beast]
+  rotate: false
+  xy: 836, 76
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/[Primordial Species] [Armored Beast]
+  rotate: false
+  xy: 836, 76
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/[Primordial Species] [Hyperplastic Beast]
+  rotate: false
+  xy: 1044, 284
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/[Primordial Species] [Hyperplastic Beast]
+  rotate: false
+  xy: 1044, 284
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/[Primordial Species] [Hyperplastic Beast]
+  rotate: false
+  xy: 1044, 284
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/[Primordial Species] [Predator Beast]
+  rotate: false
+  xy: 1868, 220
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/[Primordial Species] [Predator Beast]
+  rotate: false
+  xy: 1868, 220
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+UnitIcons/[Primordial Species] [Predator Beast]
+  rotate: false
+  xy: 1868, 220
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/[Primordial Species] [Toxic Sac Beast]
+  rotate: false
+  xy: 1044, 76
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/[Primordial Species] [Toxic Sac Beast]
+  rotate: false
+  xy: 1044, 76
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/[Primordial Species] [Toxic Sac Beast]
+  rotate: false
+  xy: 1044, 76
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/[Pure Species] [Armored Beast]
+  rotate: false
+  xy: 1252, 284
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/[Pure Species] [Armored Beast]
+  rotate: false
+  xy: 1252, 284
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/[Pure Species] [Armored Beast]
+  rotate: false
+  xy: 1252, 284
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/[Pure Species] [Hyperplastic Beast]
+  rotate: false
+  xy: 1252, 76
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/[Pure Species] [Hyperplastic Beast]
+  rotate: false
+  xy: 1252, 76
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/[Pure Species] [Hyperplastic Beast]
+  rotate: false
+  xy: 1252, 76
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/[Pure Species] [Predator Beast]
+  rotate: false
+  xy: 1460, 284
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/[Pure Species] [Predator Beast]
+  rotate: false
+  xy: 1460, 284
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/[Pure Species] [Predator Beast]
+  rotate: false
+  xy: 1460, 284
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/[Pure Species] [Toxic Sac Beast]
+  rotate: false
+  xy: 1868, 84
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/[Pure Species] [Toxic Sac Beast]
+  rotate: false
+  xy: 1868, 84
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+UnitIcons/[Pure Species] [Toxic Sac Beast]
+  rotate: false
+  xy: 1868, 84
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+UnitIcons/Node
+  rotate: false
+  xy: 1460, 12
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

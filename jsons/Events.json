@@ -1,0 +1,28 @@
+[//"Triggers a [事件名] event"
+    {
+        "name":"World Purification War",
+        "text":"Communication established. Surprisingly, there are survivors on the surface. Please protect the World Purification Core—we only have one chance. The fate of the world is in our hands.(Keep parasites away from our cities)",
+        "choices":[
+        {
+        "text":"Fight to the last minute!",
+        "uniques":[
+        "[1] free [World Purification Core] units appear",
+        "Gain [1000] [Gold]",
+
+		    ],
+        },
+        ]
+    }
+    
+    
+
+
+]
+    //<hidden from users>
+    //<with [20]% chance>
+    //<after [40] turns>
+    //<when at war>
+    //<when not at war>
+    //<for [28] turns>
+    //<every [8] turns>
+    //<when number of [Stability] is less than [Faith]>

@@ -1,0 +1,362 @@
+[
+    {
+    "name": "Parasite",
+    "uniques": [
+    //"[This Unit] takes [100] damage <for [Civilian] units> <upon turn end>",
+    //"[1] free [Insect Spirit] units appear <for [non-[Parasite]] units> <upon turn end>",
+    //"May capture killed [All] units",
+    "Instantly provides [1] [Evolution Value] <upon being defeated>",
+    "Instantly provides [2] [Evolution Value] <upon defeating a [Wounded] unit>",
+    "[1] free [Insect Spirit] units appear <upon defeating a [Wounded] unit>",
+    
+    
+    
+    
+    
+    
+    
+    
+    "[+1]% Strength <for every [1] [Adaptation]>",
+    "Instantly provides [1] [Adaptation] <upon losing at least [30] HP in a single attack>",
+    "Instantly provides [1] [Adaptation] <upon losing at least [35] HP in a single attack>",
+    "Instantly provides [1] [Adaptation] <upon losing at least [40] HP in a single attack>",
+    "Instantly provides [1] [Adaptation] <upon losing at least [45] HP in a single attack>",
+    "Instantly provides [1] [Adaptation] <upon losing at least [50] HP in a single attack>",
+    "Instantly provides [1] [Adaptation] <upon losing at least [55] HP in a single attack>",
+    "Instantly provides [1] [Adaptation] <upon losing at least [60] HP in a single attack>",
+    "Instantly provides [1] [Adaptation] <upon losing at least [65] HP in a single attack>",
+    "Instantly provides [1] [Adaptation] <upon losing at least [70] HP in a single attack>",
+    "Instantly provides [1] [Adaptation] <upon losing at least [75] HP in a single attack>",
+    "Instantly provides [1] [Adaptation] <upon losing at least [80] HP in a single attack>",
+    "Instantly provides [1] [Adaptation] <upon losing at least [85] HP in a single attack>",
+    "Instantly provides [1] [Adaptation] <upon losing at least [90] HP in a single attack>",
+    "Instantly provides [1] [Adaptation] <upon losing at least [95] HP in a single attack>",
+    
+    ],
+    },
+    {
+    "name": "Parasitic infection",
+    "uniques": [
+    "[This Unit] takes [5] damage <upon turn end>",
+    ],
+    },
+    
+    
+    {
+    "name": "Beckon Stage I",
+    "uniques": [
+    "[This Unit] gains the [I1s] promotion",
+    ],
+    },
+    {
+    "name": "I1s",
+    "uniques": [
+    "[This Unit] loses the [I4e] promotion <upon turn start>",
+    "[1] free [[Primordial Species] [Predator Beast]] units appear <with [33]% chance>",
+    "[This Unit] gains the [I1e] promotion <upon turn end>",
+    ],
+    },
+    {
+    "name": "I1e",
+    "uniques": [
+    "[This Unit] loses the [I1s] promotion <upon turn start>",
+    "[This Unit] gains the [I2s] promotion <upon turn end>",
+    ],
+    },
+    {
+    "name": "I2s",
+    "uniques": [
+    "[This Unit] loses the [I1e] promotion <upon turn start>",
+    "[1] free [[Primordial Species] [Hyperplastic Beast]] units appear <with [33]% chance>",
+    "[This Unit] gains the [I2e] promotion <upon turn end>",
+    ],
+    },
+    {
+    "name": "I2e",
+    "uniques": [
+    "[This Unit] loses the [I2s] promotion <upon turn start>",
+    "[This Unit] gains the [I3s] promotion <upon turn end>",
+    ],
+    },
+    {
+    "name": "I3s",
+    "uniques": [
+    "[This Unit] loses the [I2e] promotion <upon turn start>",
+    "[1] free [[Primordial Species] [Toxic Sac Beast]] units appear <with [33]% chance>",
+    "[This Unit] gains the [I3e] promotion <upon turn end>",
+    ],
+    },
+    {
+    "name": "I3e",
+    "uniques": [
+    "[This Unit] loses the [I3s] promotion <upon turn start>",
+    "[This Unit] gains the [I4s] promotion <upon turn end>",
+    ],
+    },
+    {
+    "name": "I4s",
+    "uniques": [
+    "[This Unit] loses the [I3e] promotion <upon turn start>",
+    "[1] free [[Primordial Species] [Armored Beast]] units appear <with [33]% chance>",
+    "[This Unit] gains the [I4e] promotion <upon turn end>",
+    ],
+    },
+    {
+    "name": "I4e",
+    "uniques": [
+    "[This Unit] loses the [I4s] promotion <upon turn start>",
+    "[This Unit] gains the [I1s] promotion <upon turn end>",
+    ],
+    },
+    
+    
+    
+    
+    {
+    "name": "Beckon Stage II",
+    "uniques": [
+    "[This Unit] gains the [II1s] promotion",
+    ],
+    },
+    {
+    "name": "II1s",
+    "uniques": [
+    "[This Unit] loses the [II4e] promotion <upon turn start>",
+    "[1] free [[Adapted Species] [Predator Beast]] units appear <with [33]% chance>",
+    "[This Unit] gains the [II1e] promotion <upon turn end>",
+    ],
+    },
+    {
+    "name": "II1e",
+    "uniques": [
+    "[This Unit] loses the [II1s] promotion <upon turn start>",
+    "[This Unit] gains the [II2s] promotion <upon turn end>",
+    ],
+    },
+    {
+    "name": "II2s",
+    "uniques": [
+    "[This Unit] loses the [II1e] promotion <upon turn start>",
+    "[1] free [[Adapted Species] [Hyperplastic Beast]] units appear <with [33]% chance>",
+    "[This Unit] gains the [II2e] promotion <upon turn end>",
+    ],
+    },
+    {
+    "name": "II2e",
+    "uniques": [
+    "[This Unit] loses the [II2s] promotion <upon turn start>",
+    "[This Unit] gains the [II3s] promotion <upon turn end>",
+    ],
+    },
+    {
+    "name": "II3s",
+    "uniques": [
+    "[This Unit] loses the [II2e] promotion <upon turn start>",
+    "[1] free [[Adapted Species] [Toxic Sac Beast]] units appear <with [33]% chance>",
+    "[This Unit] gains the [II3e] promotion <upon turn end>",
+    ],
+    },
+    {
+    "name": "II3e",
+    "uniques": [
+    "[This Unit] loses the [II3s] promotion <upon turn start>",
+    "[This Unit] gains the [II4s] promotion <upon turn end>",
+    ],
+    },
+    {
+    "name": "II4s",
+    "uniques": [
+    "[This Unit] loses the [II3e] promotion <upon turn start>",
+    "[1] free [[Adapted Species] [Armored Beast]] units appear <with [33]% chance>",
+    "[This Unit] gains the [II4e] promotion <upon turn end>",
+    ],
+    },
+    {
+    "name": "II4e",
+    "uniques": [
+    "[This Unit] loses the [II4s] promotion <upon turn start>",
+    "[This Unit] gains the [II1s] promotion <upon turn end>",
+    ],
+    },
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    {
+    "name": "Beckon Stage III",
+    "uniques": [
+    "[This Unit] gains the [III1s] promotion",
+    ],
+    },
+    {
+    "name": "III1s",
+    "uniques": [
+    "[This Unit] loses the [III4e] promotion <upon turn start>",
+    "[1] free [[Pure Species] [Predator Beast]] units appear <with [33]% chance>",
+    "[This Unit] gains the [III1e] promotion <upon turn end>",
+    ],
+    },
+    {
+    "name": "III1e",
+    "uniques": [
+    "[This Unit] loses the [III1s] promotion <upon turn start>",
+    "[This Unit] gains the [III2s] promotion <upon turn end>",
+    ],
+    },
+    {
+    "name": "III2s",
+    "uniques": [
+    "[This Unit] loses the [III1e] promotion <upon turn start>",
+    "[1] free [[Pure Species] [Hyperplastic Beast]] units appear <with [33]% chance>",
+    "[This Unit] gains the [III2e] promotion <upon turn end>",
+    ],
+    },
+    {
+    "name": "III2e",
+    "uniques": [
+    "[This Unit] loses the [III2s] promotion <upon turn start>",
+    "[This Unit] gains the [III3s] promotion <upon turn end>",
+    ],
+    },
+    {
+    "name": "III3s",
+    "uniques": [
+    "[This Unit] loses the [III2e] promotion <upon turn start>",
+    "[1] free [[Pure Species] [Toxic Sac Beast]] units appear <with [33]% chance>",
+    "[This Unit] gains the [III3e] promotion <upon turn end>",
+    ],
+    },
+    {
+    "name": "III3e",
+    "uniques": [
+    "[This Unit] loses the [III3s] promotion <upon turn start>",
+    "[This Unit] gains the [III4s] promotion <upon turn end>",
+    ],
+    },
+    {
+    "name": "III4s",
+    "uniques": [
+    "[This Unit] loses the [III3e] promotion <upon turn start>",
+    "[1] free [[Pure Species] [Armored Beast]] units appear <with [33]% chance>",
+    "[This Unit] gains the [III4e] promotion <upon turn end>",
+    ],
+    },
+    {
+    "name": "III4e",
+    "uniques": [
+    "[This Unit] loses the [III4s] promotion <upon turn start>",
+    "[This Unit] gains the [III1s] promotion <upon turn end>",
+    ],
+    },
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    {
+    "name": "Beckon Stage IV",
+    "uniques": [
+    "[This Unit] gains the [IV1s] promotion",
+    ],
+    },
+    {
+    "name": "IV1s",
+    "uniques": [
+    "[This Unit] loses the [IV4e] promotion <upon turn start>",
+    "[1] free [[Exceptional Species] [Predator Beast]] units appear <with [33]% chance>",
+    "[This Unit] gains the [IV1e] promotion <upon turn end>",
+    ],
+    },
+    {
+    "name": "IV1e",
+    "uniques": [
+    "[This Unit] loses the [IV1s] promotion <upon turn start>",
+    "[This Unit] gains the [IV2s] promotion <upon turn end>",
+    ],
+    },
+    {
+    "name": "IV2s",
+    "uniques": [
+    "[This Unit] loses the [IV1e] promotion <upon turn start>",
+    "[1] free [[Exceptional Species] [Hyperplastic Beast]] units appear <with [33]% chance>",
+    "[This Unit] gains the [IV2e] promotion <upon turn end>",
+    ],
+    },
+    {
+    "name": "IV2e",
+    "uniques": [
+    "[This Unit] loses the [IV2s] promotion <upon turn start>",
+    "[This Unit] gains the [IV3s] promotion <upon turn end>",
+    ],
+    },
+    {
+    "name": "IV3s",
+    "uniques": [
+    "[This Unit] loses the [IV2e] promotion <upon turn start>",
+    "[1] free [[Exceptional Species] [Toxic Sac Beast]] units appear <with [33]% chance>",
+    "[This Unit] gains the [IV3e] promotion <upon turn end>",
+    ],
+    },
+    {
+    "name": "IV3e",
+    "uniques": [
+    "[This Unit] loses the [IV3s] promotion <upon turn start>",
+    "[This Unit] gains the [IV4s] promotion <upon turn end>",
+    ],
+    },
+    {
+    "name": "IV4s",
+    "uniques": [
+    "[This Unit] loses the [IV3e] promotion <upon turn start>",
+    "[1] free [[Exceptional Species] [Armored Beast]] units appear <with [33]% chance>",
+    "[This Unit] gains the [IV4e] promotion <upon turn end>",
+    ],
+    },
+    {
+    "name": "IV4e",
+    "uniques": [
+    "[This Unit] loses the [IV4s] promotion <upon turn start>",
+    "[This Unit] gains the [IV1s] promotion <upon turn end>",
+    ],
+    },
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+]

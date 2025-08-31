@@ -1,0 +1,15 @@
+[
+{
+        "name": "Escape Parasite",
+        "victoryScreenHeader": "Complete the evolutionary battle to rid the world of parasites!",
+        "milestones": ["Build [World Purification Complete]",],
+        "victoryString": "We have won. The parasites no longer hid themselves and attempted to seize the world with full force, allowing us to completely eradicate them. Although the parasites have been eliminated, the damage they caused remains, and it is up to us to restore everything.",
+        "defeatString": "We have won. The parasites no longer hid themselves and attempted to seize the world with full force, allowing us to completely eradicate them. Although the parasites have been eliminated, the damage they caused remains, and it is up to us to restore everything."
+    },
+
+
+
+
+
+
+]

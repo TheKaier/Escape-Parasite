@@ -1,0 +1,345 @@
+[
+
+    {
+        "name": "[Primordial Species] [Predator Beast]",
+        "unitType": "Primordial Species",
+        "movement": 2,
+        "strength": 10,
+        "cost": 0,
+        "uniques": [
+"Only available <when below [100] [Evolution Value]>",
+
+"[This Unit] takes [100] damage <when above [199] [Evolution Value]> <upon turn end>",
+"[1] free [[Adapted Species] [Predator Beast]] units appear <when above [199] [Evolution Value]> <upon turn end>",
+
+]
+    },
+    {
+        "name": "[Primordial Species] [Hyperplastic Beast]",
+        "unitType": "Primordial Species",
+        "movement": 2,
+        "strength": 8,
+        "cost": 0,
+        "uniques": [
+        "Only available <when above [99] [Evolution Value]> <when below [200] [Evolution Value]>",
+        
+        
+        "[1] free [[Primordial Species] [Hyperplastic Beast]] units appear <upon defeating a [Wounded] unit>",
+        
+        "[This Unit] takes [100] damage <when above [199] [Evolution Value]> <upon turn end>",
+"[1] free [[Adapted Species] [Hyperplastic Beast]] units appear <when above [199] [Evolution Value]> <upon turn end>",
+        
+        "[+100]% to Flank Attack bonuses",
+        ]
+    },
+    {
+        "name": "[Primordial Species] [Toxic Sac Beast]",
+        "unitType": "Primordial Species",
+        "movement": 2,
+        "strength": 7,
+        "rangedStrength": 8,
+		"range": 2,
+        "cost": 0,
+        "uniques": [
+        "Only available <when above [99] [Evolution Value]> <when below [200] [Evolution Value]>",
+        
+        "[This Unit] takes [100] damage <when above [199] [Evolution Value]> <upon turn end>",
+"[1] free [[Adapted Species] [Toxic Sac Beast]] units appear <when above [199] [Evolution Value]> <upon turn end>",
+        
+        
+        
+        ]
+    },
+    {
+        "name": "[Primordial Species] [Armored Beast]",
+        "unitType": "Primordial Species",
+        "movement": 2,
+        "strength": 8,
+        "cost": 0,
+        "uniques": [
+"Never appears as a Barbarian unit",
+"[This Unit] takes [100] damage <when above [199] [Evolution Value]> <upon turn end>",
+"[1] free [[Adapted Species] [Armored Beast]] units appear <when above [199] [Evolution Value]> <upon turn end>",
+
+
+"[+50]% Strength <when defending>",
+]
+    },
+    {
+        "name": "[Adapted Species] [Predator Beast]",
+        "unitType": "Adapted Species",
+        "movement": 3,
+        "strength": 12,
+        "cost": 0,
+        "uniques": [
+"Never appears as a Barbarian unit",
+
+"[This Unit] takes [100] damage <when above [299] [Evolution Value]> <upon turn end>",
+"[1] free [[Pure Species] [Predator Beast]] units appear <when above [299] [Evolution Value]> <upon turn end>",
+
+
+"[+33]% Strength <vs [Wounded] units>",
+"Heals [25] damage if it kills a unit",
+]
+    },
+    {
+        "name": "[Adapted Species] [Hyperplastic Beast]",
+        "unitType": "Adapted Species",
+        "movement": 3,
+        "strength": 10,
+        "cost": 0,
+        "uniques": [
+"Never appears as a Barbarian unit",
+"[1] free [[Adapted Species] [Hyperplastic Beast]] units appear <upon defeating a [Wounded] unit>",
+
+"[This Unit] takes [100] damage <when above [299] [Evolution Value]> <upon turn end>",
+"[1] free [[Pure Species] [Hyperplastic Beast]] units appear <when above [299] [Evolution Value]> <upon turn end>",
+
+"[+150]% to Flank Attack bonuses",
+
+
+]
+    },
+    {
+        "name": "[Adapted Species] [Toxic Sac Beast]",
+        "unitType": "Adapted Species",
+        "movement": 2,
+        "strength": 8,
+        "rangedStrength": 10,
+		"range": 3,
+        "cost": 0,
+        "uniques": [
+"Never appears as a Barbarian unit",
+
+
+"[This Unit] takes [100] damage <when above [399] [Evolution Value]> <upon turn end>",
+"[1] free [[Pure Species] [Toxic Sac Beast]] units appear <when above [399] [Evolution Value]> <upon turn end>",
+
+
+"Must set up to ranged attack",
+
+
+]
+    },
+    {
+        "name": "[Adapted Species] [Armored Beast]",
+        "unitType": "Adapted Species",
+        "movement": 2,
+        "strength": 12,
+        "cost": 0,
+        "uniques": [
+"Never appears as a Barbarian unit",
+"[This Unit] takes [100] damage <when above [399] [Evolution Value]> <upon turn end>",
+"[1] free [[Pure Species] [Armored Beast]] units appear <when above [399] [Evolution Value]> <upon turn end>",
+
+"[+100]% Strength <when defending>",
+
+]
+    },
+    {
+        "name": "[Pure Species] [Predator Beast]",
+        "unitType": "Pure Species",
+        "movement": 4,
+        "strength": 17,
+        "cost": 0,
+        "uniques": [
+"Never appears as a Barbarian unit",
+"[+50]% Strength <vs [Wounded] units>",
+"[+1]% Strength <vs [Wounded] units> <for every [2] [Adaptation]>",
+"Heals [35] damage if it kills a unit",
+]
+    },
+    {
+        "name": "[Pure Species] [Hyperplastic Beast]",
+        "unitType": "Pure Species",
+        "movement": 3,
+        "strength": 14,
+        "cost": 0,
+        "uniques": [
+"Never appears as a Barbarian unit",
+"[1] free [[Pure Species] [Hyperplastic Beast]] units appear <upon defeating a [Wounded] unit>",
+
+"[+200]% to Flank Attack bonuses",
+
+]
+    },
+    {
+        "name": "[Pure Species] [Toxic Sac Beast]",
+        "unitType": "Pure Species",
+        "movement": 3,
+        "strength": 12,
+        "rangedStrength": 14,
+		"range": 3,
+        "cost": 0,
+        "uniques": [
+"Never appears as a Barbarian unit",
+"Ranged attacks may be performed over obstacles",
+"Must set up to ranged attack",
+]
+    },
+    {
+        "name": "[Pure Species] [Armored Beast]",
+        "unitType": "Pure Species",
+        "movement": 2,
+        "strength": 17,
+        "cost": 0,
+        "uniques": [
+"Never appears as a Barbarian unit",
+"[+150]% Strength <when defending>",
+"[+1]% Strength <when defending> <for every [1] [Adaptation]>",
+]
+    },
+    {
+        "name": "[Exceptional Species] [Predator Beast]",
+        "unitType": "Exceptional Species",
+        "movement": 4,
+        "strength": 25,
+        "cost": 0,
+        "uniques": [
+"Never appears as a Barbarian unit",
+"[+100]% Strength <vs [Wounded] units>",
+"[+1]% Strength <vs [Wounded] units> <for every [1] [Adaptation]>",
+"Heals [50] damage if it kills a unit",
+]
+    },
+    {
+        "name": "[Exceptional Species] [Hyperplastic Beast]",
+        "unitType": "Exceptional Species",
+        "movement": 3,
+        "strength": 20,
+        "cost": 0,
+        "uniques": [
+"Never appears as a Barbarian unit",
+"[1] free [[Exceptional Species] [Hyperplastic Beast]] units appear <upon defeating a [Wounded] unit>",
+
+"[+250]% to Flank Attack bonuses",
+
+
+]
+    },
+    {
+        "name": "[Exceptional Species] [Toxic Sac Beast]",
+        "unitType": "Exceptional Species",
+        "movement": 3,
+        "strength": 17,
+        "rangedStrength": 21,
+		"range": 3,
+        "cost": 0,
+        "uniques": [
+"Never appears as a Barbarian unit",
+"Ranged attacks may be performed over obstacles",
+]
+    },
+    {
+        "name": "[Exceptional Species] [Armored Beast]",
+        "unitType": "Exceptional Species",
+        "movement": 3,
+        "strength": 25,
+        "cost": 0,
+        "uniques": [
+"Never appears as a Barbarian unit",
+"[+200]% Strength <when defending>",
+"[+2]% Strength <when defending> <for every [1] [Adaptation]>",
+]
+    },
+    {
+        "name": "Beckon Stage I",
+        "unitType": "Beckon Stage",
+        "movement": 0,
+        "strength": 20,
+        "cost": 0,
+        "uniques": [
+        "Only available <when above [199] [Evolution Value]> <when below [300] [Evolution Value]>",
+"Consumes [-1] [Evolution Value]",
+]
+        "promotions": ["Beckon Stage I"],
+    },
+    {
+        "name": "Beckon Stage II",
+        "unitType": "Beckon Stage",
+        "movement": 0,
+        "strength": 25,
+        "cost": 0,
+        "uniques": [
+        "Only available <when above [299] [Evolution Value]> <when below [400] [Evolution Value]>",
+"Consumes [-2] [Evolution Value]",
+]
+        "promotions": ["Beckon Stage II"],
+    },
+    {
+        "name": "Beckon Stage III",
+        "unitType": "Beckon Stage",
+        "movement": 0,
+        "strength": 35,
+        "cost": 0,
+        "uniques": [
+        "Only available <when above [399] [Evolution Value]> <when below [500] [Evolution Value]>",
+"Consumes [-3] [Evolution Value]",
+]
+        "promotions": ["Beckon Stage III"],
+    },
+    {
+        "name": "Beckon Stage IV",
+        "unitType": "Beckon Stage",
+        "movement": 0,
+        "strength": 50,
+        "cost": 0,
+        "uniques": [
+        "Only available <when above [499] [Evolution Value]>",
+"Consumes [-4] [Evolution Value]",
+"[1] free [Node] units appear <upon turn start>",
+]
+        "promotions": ["Beckon Stage IV"],
+    },
+    {
+        "name": "Node",
+        "unitType": "Beckon Stage",
+        "movement": 0,
+        "cost": 0,
+        "uniques": [
+"Never appears as a Barbarian unit",
+"Turn this tile into a [Flesh and blood] tile <upon turn end>",
+//"[This Unit] takes [80] damage <when above [99] HP> <upon turn end>",
+//"[1] free [Node] units appear <when above [99] HP> <upon turn end>",
+]
+    },
+    {
+        "name": "Insect Spirit",
+        "unitType": "Beckon Stage",
+        "movement": 2,
+        "cost": 0,
+        "uniques": [
+"Never appears as a Barbarian unit",
+"[This Unit] takes [50] damage <when above [99] HP> <upon turn end>",
+"[1] free [[Primordial Species] [Predator Beast]] units appear <when above [99] HP> <upon turn end>",
+]
+    },
+    {
+        "name": "World Purification Core",
+        "unitType": "World Purification Core",
+        "movement": 2,
+        "cost": 0,
+        "uniques": [
+"Never appears as a Barbarian unit",
+"[This Unit] takes [100] damage <when below [1000] [Gold]> <upon turn start>",
+"Consumes [-4] [Progress of world purification]",
+"Unbuildable", "Uncapturable",
+]
+    },
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+]

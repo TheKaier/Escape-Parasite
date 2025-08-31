@@ -1,0 +1,213 @@
+[
+    {
+        "name": "Beckon Stage",
+        "movementType": "Land"
+        "uniques": [
+        "Parasite",
+        "Only available <when above [1] [Evolution Value]>",
+        "Uncapturable",
+        ]
+    },
+    {
+        "name": "Primordial Species",
+        "movementType": "Land"
+        "uniques": [
+        "Parasite",
+        "Only available <when above [1] [Evolution Value]>",
+        //"[Target Unit] gains the [Parasitic infection] status for [5] turn(s) <upon damaging a [All] unit>",
+        
+        ]
+    },
+    {
+        "name": "Adapted Species",
+        "movementType": "Land"
+        "uniques": [
+        "Parasite",
+        "Only available <when above [1] [Evolution Value]>",
+        //"[Target Unit] gains the [Parasitic infection] status for [10] turn(s) <upon damaging a [All] unit>",
+        
+        ]
+    },
+    {
+        "name": "Pure Species",
+        "movementType": "Land"
+        "uniques": [
+        "Parasite",
+        "Only available <when above [1] [Evolution Value]>",
+        "May travel on Water tiles without embarking",
+        //"[Target Unit] gains the [Parasitic infection] status for [20] turn(s) <upon damaging a [All] unit>",
+        
+        ]
+    },
+    {
+        "name": "Exceptional Species",
+        "movementType": "Land"
+        "uniques": [
+        "Parasite",
+        "Only available <when above [1] [Evolution Value]>",
+        "May travel on Water tiles without embarking",
+        "All tiles cost 1 movement",
+        "Can move after attacking",
+        "Unit will heal every turn, even if it performs an action",
+        "Ignores Zone of Control",
+        //"[Target Unit] gains the [Parasitic infection] status for [50] turn(s) <upon damaging a [All] unit>",
+        
+        ]
+    },
+    
+    
+    
+    
+    
+    
+    {
+        "name": "World Purification Core",
+        "movementType": "Land"
+        "uniques": ["Never appears as a Barbarian unit",]
+    },
+    
+    //适应列表
+    {
+        "name": "Civilian",
+        "movementType": "Land"
+        "uniques": ["Never appears as a Barbarian unit",]
+    },
+    {
+        "name": "Sword",
+        "movementType": "Land"
+        "uniques": ["Never appears as a Barbarian unit",]
+    },
+    {
+        "name": "Gunpowder",
+        "movementType": "Land"
+        "uniques": ["Never appears as a Barbarian unit",]
+    },
+    {
+        "name": "Archery",
+        "movementType": "Land"
+        "uniques": ["Never appears as a Barbarian unit",]
+    },
+    {
+        "name": "Ranged Gunpowder",
+        "movementType": "Land"
+        "uniques": ["Never appears as a Barbarian unit",]
+    },
+    {
+        "name": "Scout",
+        "movementType": "Land"
+        "uniques": ["Never appears as a Barbarian unit",]
+    },
+    {
+        "name": "Mounted",
+        "movementType": "Land"
+        "uniques": ["Never appears as a Barbarian unit",]
+    },
+    {
+        "name": "Armored",
+        "movementType": "Land"
+        "uniques": ["Never appears as a Barbarian unit",]
+    },
+    {
+        "name": "Siege",
+        "movementType": "Land"
+        "uniques": ["Never appears as a Barbarian unit",]
+    },
+    {
+        "name": "Civilian Water",
+        "movementType": "Water"
+        "uniques": ["Never appears as a Barbarian unit",]
+    },
+    {
+        "name": "Melee Water",
+        "movementType": "Water"
+        "uniques": ["Never appears as a Barbarian unit",]
+    },
+    {
+        "name": "Ranged Water",
+        "movementType": "Water"
+        "uniques": ["Never appears as a Barbarian unit",]
+    },
+    {
+        "name": "Submarine",
+        "movementType": "Water",
+        "uniques": ["Can enter ice tiles", "Invisible to non-adjacent units", "Can see invisible [Submarine] units","Never appears as a Barbarian unit",]
+    },
+    {
+        "name": "Aircraft Carrier",
+        "movementType": "Water"
+        "uniques": ["Never appears as a Barbarian unit",]
+    },
+    {
+        "name": "Fighter",
+        "movementType": "Air",
+        "uniques": ["Aircraft", "[+4] Sight", "Can see over obstacles", "Can perform Air Sweep","Never appears as a Barbarian unit",]
+    },
+    {
+        "name": "Bomber",
+        "movementType": "Air",
+        "uniques": ["Aircraft","Never appears as a Barbarian unit",]
+    },
+    {
+        "name": "Atomic Bomber",
+        "movementType": "Air",
+        "uniques": ["Aircraft","Never appears as a Barbarian unit",]
+    },
+    {
+        "name": "Missile",
+        "movementType": "Air",
+        "uniques": ["Self-destructs when attacking", "Cannot be intercepted","Never appears as a Barbarian unit",]
+    },
+    {
+        "name": "Helicopter",
+        "movementType": "Land",
+        "uniques": ["Can pass through impassable tiles","Never appears as a Barbarian unit",]
+    },
+
+    // Deprecated unit types required for mods without a UnitTypes.json file to work
+
+    {
+        "name": "Melee",
+        "movementType": "Land"
+        "uniques": ["Never appears as a Barbarian unit",]
+    },
+    {
+        "name": "Ranged",
+        "movementType": "Land"
+        "uniques": ["Never appears as a Barbarian unit",]
+    },
+    {
+        "name": "Armor",
+        "movementType": "Land"
+        "uniques": ["Never appears as a Barbarian unit",]
+    },
+    {
+        "name": "WaterCivilian",
+        "movementType": "Water"
+        "uniques": ["Never appears as a Barbarian unit",]
+    },
+    {
+        "name": "WaterMelee",
+        "movementType": "Water"
+        "uniques": ["Never appears as a Barbarian unit",]
+    },
+    {
+        "name": "WaterRanged",
+        "movementType": "Water"
+        "uniques": ["Never appears as a Barbarian unit",]
+    },
+    {
+        "name": "WaterSubmarine",
+        "movementType": "Water"
+        "uniques": ["Never appears as a Barbarian unit",]
+    },
+    {
+        "name": "WaterAircraftCarrier",
+        "movementType": "Water"
+        "uniques": ["Never appears as a Barbarian unit",]
+    },
+    {
+        "name": "AtomicBomber",
+        "movementType": "Air"
+        "uniques": ["Never appears as a Barbarian unit",]
+    }
+]
