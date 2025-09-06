@@ -6,14 +6,14 @@
         "innerColor": [185,12,12],
 		"uniques": [
 		"Excluded from map editor",
-			"[All] units gain the [Parasite] promotion<upon turn start>",
-			"Provides [2] [Evolution Value]",
-			"Provides [18] [Evolution Value] <if [World Purification Ritual] is constructed by anybody>",
+			"[Parasite] units gain the [Parasite] promotion",
+			"Provides [15] [Evolution Value]",
+			"Provides [-100] [Evolution Level] <if [World Purification Complete] is constructed by anybody>",
+			"[1] free [Ancient Overlord] units appear <when above [0] [Ancestral Species Max]> <when above [6] [Evolution Level]> <with [33]% chance> <upon turn end>",
 			
-			
-			
-			
-			
+			"[1] free [Ancient Dreadnaut] units appear <if [World Purification Ritual] is constructed by anybody> <when above [0] [Ancestral Species Max]> <when above [6] [Evolution Level]> <with [33]% chance> <upon turn end>",
+			"Provides [1] [Ancestral Species Max]",
+			"Provides [2] [Ancestral Species Max] <if [World Purification Ritual] is constructed by anybody>",
 			
 			]
 	}

@@ -1,6 +1,6 @@
 [
     {
-		"name": "Adaptation",
+		"name": "Adaptation",//适应
 		"resourceType": "Strategic",
 		"uniques": [
 		"Cannot be traded"//不能交易
@@ -9,7 +9,7 @@
 		]
 	},
     {
-		"name": "Evolution Value",
+		"name": "Evolution Value",//演化值
 		"resourceType": "Strategic",
 		"uniques": [
 		"Cannot be traded"//不能交易
@@ -17,8 +17,17 @@
         //"Not shown on world screen",//不显示
 		]
 	},
+	{
+		"name": "Evolution Level",//演化水平
+		"resourceType": "Strategic",
+		"uniques": [
+		"Cannot be traded"//不能交易
+		//"Stockpiled"//库存
+        //"Not shown on world screen",//不显示
+		]
+	},
     {
-		"name": "Communication Text",
+		"name": "Communication Text",//通讯文本
 		"resourceType": "Strategic",
 		"uniques": [
 		//"Cannot be traded"//不能交易
@@ -27,7 +36,7 @@
 		]
 	},
     {
-		"name": "Technical Information",
+		"name": "Technical Information",//技术信息
 		"resourceType": "Strategic",
 		"uniques": [
 		//"Cannot be traded"//不能交易
@@ -45,8 +54,24 @@
 		]
 	},
 
-
-
+    {
+		"name": "Ancestral Species Max",//始祖种上限
+		"resourceType": "Strategic",
+		"uniques": [
+		"Cannot be traded"//不能交易
+		//"Stockpiled"//库存
+        "Not shown on world screen",//不显示
+		]
+	},
+{
+		"name": "Ancestor Core",//始祖核心
+		"resourceType": "Strategic",
+		"uniques": [
+		//"Cannot be traded"//不能交易
+		"Stockpiled"//库存
+        //"Not shown on world screen",//不显示
+		]
+	},
 
 
 

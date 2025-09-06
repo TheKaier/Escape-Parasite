@@ -8,11 +8,150 @@
         "uniques":[
         "[1] free [World Purification Core] units appear",
         "Gain [1000] [Gold]",
-
+"Triggers a [PlotWar] event",
 		    ],
         },
         ]
-    }
+    },
+    {
+        "name":"Plot1",
+        "text":"I do not know when, a strange creature appeared in the world, no one knows where they came from, they seem to suddenly appear.",
+        "choices":[
+        {
+        "text":"",
+        "uniques":[
+		    ],
+        },
+        ]
+    },
+    {
+        "name":"Plot2",
+        "text":"The strange lives seemed to have changed and began to show aggression, leaving a mark of their own on the land they passed.",
+        "choices":[
+        {
+        "text":"",
+        "uniques":[
+		    ],
+        },
+        ]
+    },
+    {
+        "name":"Plot3",
+        "text":"The life we call parasites is evolving, a tree-like individual is discovered, A large area centered on that particular individual is transformed into an erosion site, with a large number of parasite individuals active around it.",
+        "choices":[
+        {
+        "text":"",
+        "uniques":[
+		    ],
+        },
+        ]
+    },
+    {
+        "name":"Plot4",
+        "text":"We found an unknown massive individual in the wild, which is completely different from the type we found earlier, and it seems to be managing the eroded area, There are many ground-based parasite individuals guarding the edge of the eroded area.",
+        "choices":[
+        {
+        "text":"",
+        "uniques":[
+		    ],
+        },
+        ]
+    },
+    {
+        "name":"Plot5",
+        "text":"The morphology of those parasites has changed dramatically, and they are beginning to attack us in a major way. We found some information from some of the remains occupied by the parasites at some point. Although only a few pieces, perhaps we can collect a certain number to be able to find something.",
+        "choices":[
+        {
+        "text":"",
+        "uniques":[
+		    ],
+        },
+        ]
+    },
+    {
+        "name":"Plot6",
+        "text":"Our war with parasites continues, and the latest discovery is that they are adapting to our attacks, The technical information we collected was studied and the method of building the communication tower was obtained. We were able to contact survivors in other areas and the lost 101 base.",
+        "choices":[
+        {
+        "text":"",
+        "uniques":[
+		    ],
+        },
+        ]
+    },
+    {
+        "name":"Plot7",
+        "text":"Parasites have undergone another mass evolution, and we don't know if their evolution will end. If so, what would it be? Our communication with Base 101 was brief, like it was blocked by something. From the hinterland of the parasites came a terrible wave of energy. That should be the communication of the ancestor parasite, and we need to kill it and take the core as a key preparation for the cleansing of the world.",
+        "choices":[
+        {
+        "text":"",
+        "uniques":[
+		    ],
+        },
+        ]
+    },
+    {
+        "name":"Plot10",
+        "text":"The parasite begins to assimilate everything, his tentacles go deep into the core, and his branches cover the sky. The fate of humanity has been like a candle in the wind, our world has come to the last moment. All take up arms and fight the parasites to the end!",
+        "choices":[
+        {
+        "text":"",
+        "uniques":[
+		    ],
+        },
+        ]
+    },
+    {
+        "name":"PlotWar",
+        "text":"The dazzling light rises from the city center, piercing the sky, the holy light sprinkled on the flesh-covered earth. For the first time the parasites show fear, and this time we can actually kill them and drive them out of our world. Our communications with Base 101 are connected again, providing us with a view around the world's cleansing core. The survival of humanity and the fate of the world all depend on the victory or defeat of this war. This battle can only be won!",
+        "choices":[
+        {
+        "text":"",
+        "uniques":[
+		    ],
+        },
+        ]
+    },
+    {
+        "name":"PlotEnd",
+        "text":"We... we won? The orbital matrix drops thunderstorms, wiping out the parasite's main force. World Purification Core successfully released. The flesh of the parasite-infested soil has become inactive, and all the evidence points to one word - victory. Humans have survived a catastrophe called a parasite, and those who survived are celebrating the joy of surviving. Although the parasites have been eliminated, their traces remain, and we need to recover.",
+        "choices":[
+        {
+        "text":"",
+        "uniques":[
+		    ],
+        },
+        ]
+    },
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     
     
 

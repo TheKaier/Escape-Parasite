@@ -7,10 +7,10 @@
         "strength": 10,
         "cost": 0,
         "uniques": [
-"Only available <when below [100] [Evolution Value]>",
+"Only available <when number of [Evolution Level] is equal to [2]>",
 
-"[This Unit] takes [100] damage <when above [199] [Evolution Value]> <upon turn end>",
-"[1] free [[Adapted Species] [Predator Beast]] units appear <when above [199] [Evolution Value]> <upon turn end>",
+"[This Unit] takes [100] damage <when number of [Evolution Level] is equal to [6]> <upon turn end>",
+"[1] free [[Adapted Species] [Predator Beast]] units appear <when number of [Evolution Level] is equal to [6]> <upon turn end>",
 
 ]
     },
@@ -21,13 +21,13 @@
         "strength": 8,
         "cost": 0,
         "uniques": [
-        "Only available <when above [99] [Evolution Value]> <when below [200] [Evolution Value]>",
+        "Only available <when number of [Evolution Level] is equal to [2]>",
         
         
         "[1] free [[Primordial Species] [Hyperplastic Beast]] units appear <upon defeating a [Wounded] unit>",
         
-        "[This Unit] takes [100] damage <when above [199] [Evolution Value]> <upon turn end>",
-"[1] free [[Adapted Species] [Hyperplastic Beast]] units appear <when above [199] [Evolution Value]> <upon turn end>",
+        "[This Unit] takes [100] damage <when number of [Evolution Level] is equal to [6]> <upon turn end>",
+"[1] free [[Adapted Species] [Hyperplastic Beast]] units appear <when number of [Evolution Level] is equal to [6]> <upon turn end>",
         
         "[+100]% to Flank Attack bonuses",
         ]
@@ -41,10 +41,10 @@
 		"range": 2,
         "cost": 0,
         "uniques": [
-        "Only available <when above [99] [Evolution Value]> <when below [200] [Evolution Value]>",
+        "Only available <when number of [Evolution Level] is equal to [2]>",
         
-        "[This Unit] takes [100] damage <when above [199] [Evolution Value]> <upon turn end>",
-"[1] free [[Adapted Species] [Toxic Sac Beast]] units appear <when above [199] [Evolution Value]> <upon turn end>",
+        "[This Unit] takes [100] damage <when number of [Evolution Level] is equal to [6]> <upon turn end>",
+"[1] free [[Adapted Species] [Toxic Sac Beast]] units appear <when number of [Evolution Level] is equal to [6]> <upon turn end>",
         
         
         
@@ -57,9 +57,10 @@
         "strength": 8,
         "cost": 0,
         "uniques": [
-"Never appears as a Barbarian unit",
-"[This Unit] takes [100] damage <when above [199] [Evolution Value]> <upon turn end>",
-"[1] free [[Adapted Species] [Armored Beast]] units appear <when above [199] [Evolution Value]> <upon turn end>",
+"Only available <when number of [Evolution Level] is equal to [2]>",
+
+"[This Unit] takes [100] damage <when number of [Evolution Level] is equal to [6]> <upon turn end>",
+"[1] free [[Adapted Species] [Armored Beast]] units appear <when number of [Evolution Level] is equal to [6]> <upon turn end>",
 
 
 "[+50]% Strength <when defending>",
@@ -74,8 +75,8 @@
         "uniques": [
 "Never appears as a Barbarian unit",
 
-"[This Unit] takes [100] damage <when above [299] [Evolution Value]> <upon turn end>",
-"[1] free [[Pure Species] [Predator Beast]] units appear <when above [299] [Evolution Value]> <upon turn end>",
+"[This Unit] takes [100] damage <when number of [Evolution Level] is equal to [8]> <upon turn end>",
+"[1] free [[Pure Species] [Predator Beast]] units appear <when number of [Evolution Level] is equal to [8]> <upon turn end>",
 
 
 "[+33]% Strength <vs [Wounded] units>",
@@ -92,8 +93,8 @@
 "Never appears as a Barbarian unit",
 "[1] free [[Adapted Species] [Hyperplastic Beast]] units appear <upon defeating a [Wounded] unit>",
 
-"[This Unit] takes [100] damage <when above [299] [Evolution Value]> <upon turn end>",
-"[1] free [[Pure Species] [Hyperplastic Beast]] units appear <when above [299] [Evolution Value]> <upon turn end>",
+"[This Unit] takes [100] damage <when number of [Evolution Level] is equal to [8]> <upon turn end>",
+"[1] free [[Pure Species] [Hyperplastic Beast]] units appear <when number of [Evolution Level] is equal to [8]> <upon turn end>",
 
 "[+150]% to Flank Attack bonuses",
 
@@ -112,8 +113,8 @@
 "Never appears as a Barbarian unit",
 
 
-"[This Unit] takes [100] damage <when above [399] [Evolution Value]> <upon turn end>",
-"[1] free [[Pure Species] [Toxic Sac Beast]] units appear <when above [399] [Evolution Value]> <upon turn end>",
+"[This Unit] takes [100] damage <when number of [Evolution Level] is equal to [8]> <upon turn end>",
+"[1] free [[Pure Species] [Toxic Sac Beast]] units appear <when number of [Evolution Level] is equal to [8]> <upon turn end>",
 
 
 "Must set up to ranged attack",
@@ -129,8 +130,8 @@
         "cost": 0,
         "uniques": [
 "Never appears as a Barbarian unit",
-"[This Unit] takes [100] damage <when above [399] [Evolution Value]> <upon turn end>",
-"[1] free [[Pure Species] [Armored Beast]] units appear <when above [399] [Evolution Value]> <upon turn end>",
+"[This Unit] takes [100] damage <when number of [Evolution Level] is equal to [8]> <upon turn end>",
+"[1] free [[Pure Species] [Armored Beast]] units appear <when number of [Evolution Level] is equal to [8]> <upon turn end>",
 
 "[+100]% Strength <when defending>",
 
@@ -244,76 +245,283 @@
     },
     {
         "name": "Beckon Stage I",
-        "unitType": "Beckon Stage",
+        "unitType": "Link Species",
         "movement": 0,
-        "strength": 20,
+        "strength": 15,
         "cost": 0,
         "uniques": [
-        "Only available <when above [199] [Evolution Value]> <when below [300] [Evolution Value]>",
-"Consumes [-1] [Evolution Value]",
+        "Only available <when number of [Evolution Level] is equal to [3]>",
+//"Consumes [-1] [Evolution Value]",
 ]
         "promotions": ["Beckon Stage I"],
     },
     {
         "name": "Beckon Stage II",
-        "unitType": "Beckon Stage",
+        "unitType": "Link Species",
         "movement": 0,
-        "strength": 25,
+        "strength": 20,
         "cost": 0,
         "uniques": [
-        "Only available <when above [299] [Evolution Value]> <when below [400] [Evolution Value]>",
-"Consumes [-2] [Evolution Value]",
+        "Only available <when number of [Evolution Level] is equal to [5]>",
+//"Consumes [-2] [Evolution Value]",
 ]
         "promotions": ["Beckon Stage II"],
     },
     {
         "name": "Beckon Stage III",
-        "unitType": "Beckon Stage",
+        "unitType": "Link Species",
         "movement": 0,
-        "strength": 35,
+        "strength": 25,
         "cost": 0,
         "uniques": [
-        "Only available <when above [399] [Evolution Value]> <when below [500] [Evolution Value]>",
-"Consumes [-3] [Evolution Value]",
+        "Only available <when number of [Evolution Level] is equal to [7]>",
+//"Consumes [-3] [Evolution Value]",
 ]
         "promotions": ["Beckon Stage III"],
     },
     {
         "name": "Beckon Stage IV",
-        "unitType": "Beckon Stage",
+        "unitType": "Link Species",
         "movement": 0,
-        "strength": 50,
+        "strength": 30,
         "cost": 0,
         "uniques": [
-        "Only available <when above [499] [Evolution Value]>",
-"Consumes [-4] [Evolution Value]",
-"[1] free [Node] units appear <upon turn start>",
+        "Only available <when number of [Evolution Level] is equal to [9]>",
+//"Consumes [-4] [Evolution Value]",
+//"[1] free [Node] units appear <upon turn start>",
 ]
         "promotions": ["Beckon Stage IV"],
     },
     {
         "name": "Node",
-        "unitType": "Beckon Stage",
+        "unitType": "Congenital Species",
         "movement": 0,
         "cost": 0,
         "uniques": [
 "Never appears as a Barbarian unit",
-"Turn this tile into a [Flesh and blood] tile <upon turn end>",
+"Consumes [-1] [Evolution Value]",
+"Turn this tile into a [Flesh and blood] tile <in tiles without [Flesh and blood]> <upon turn end>",
 //"[This Unit] takes [80] damage <when above [99] HP> <upon turn end>",
 //"[1] free [Node] units appear <when above [99] HP> <upon turn end>",
 ]
     },
     {
-        "name": "Insect Spirit",
-        "unitType": "Beckon Stage",
-        "movement": 2,
+        "name": "Linked network",
+        "unitType": "Congenital Species",
+        "movement": 0,
         "cost": 0,
         "uniques": [
 "Never appears as a Barbarian unit",
-"[This Unit] takes [50] damage <when above [99] HP> <upon turn end>",
-"[1] free [[Primordial Species] [Predator Beast]] units appear <when above [99] HP> <upon turn end>",
+"Consumes [-1] [Evolution Value]",
+"Turn this tile into a [Eroded land] tile <in tiles without [Eroded land]> <upon turn end>",
+
 ]
     },
+    {
+        "name": "Insect Spirit",
+        "unitType": "Congenital Species",
+        "movement": 2,
+        "strength": 5,
+        "cost": 0,
+        "uniques": [
+"Only available <when number of [Evolution Level] is equal to [1]>",
+
+"Turn this tile into a [Eroded land] tile <in tiles without [Eroded land]> <upon being defeated>",
+
+
+
+
+"Instantly provides [1] [Adaptation] <upon losing at least [30] HP in a single attack>",
+    "Instantly provides [1] [Adaptation] <upon losing at least [35] HP in a single attack>",
+    "Instantly provides [1] [Adaptation] <upon losing at least [40] HP in a single attack>",
+    "Instantly provides [1] [Adaptation] <upon losing at least [45] HP in a single attack>",
+    "Instantly provides [1] [Adaptation] <upon losing at least [50] HP in a single attack>",
+    "Instantly provides [1] [Adaptation] <upon losing at least [55] HP in a single attack>",
+    "Instantly provides [1] [Adaptation] <upon losing at least [60] HP in a single attack>",
+    "Instantly provides [1] [Adaptation] <upon losing at least [65] HP in a single attack>",
+    "Instantly provides [1] [Adaptation] <upon losing at least [70] HP in a single attack>",
+    "Instantly provides [1] [Adaptation] <upon losing at least [75] HP in a single attack>",
+    "Instantly provides [1] [Adaptation] <upon losing at least [80] HP in a single attack>",
+    "Instantly provides [1] [Adaptation] <upon losing at least [85] HP in a single attack>",
+    "Instantly provides [1] [Adaptation] <upon losing at least [90] HP in a single attack>",
+    "Instantly provides [1] [Adaptation] <upon losing at least [95] HP in a single attack>",
+
+
+
+]
+"promotions": ["Call of the Hive"],
+    },
+    {
+        "name": "Kyphosis",//曲击柱
+        "unitType": "Deterrence Species",
+        "movement": 0,
+        "strength": 12,
+        "cost": 0,
+        "uniques": [
+"Never appears as a Barbarian unit",
+"Turn this tile into a [Eroded land] tile <in tiles without [Eroded land]> <upon being defeated>",
+]
+    },
+    {
+        "name": "Sentry",//哨戒爪
+        "unitType": "Deterrence Species",
+        "movement": 0,
+        "strength": 8,
+        "rangedStrength": 11,
+		"range": 2,
+        "cost": 0,
+        "uniques": [
+"Never appears as a Barbarian unit",
+"Turn this tile into a [Eroded land] tile <in tiles without [Eroded land]> <upon being defeated>",
+]
+    },
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    {
+        "name": "Dispatch Pillar I",
+        "unitType": "Link Species",
+        "movement": 0,
+        "strength": 15,
+        "cost": 0,
+        "uniques": [
+        "Only available <when number of [Evolution Level] is equal to [4]>",
+//"Consumes [-1] [Evolution Value]",
+"[1] free [Linked network] units appear <upon turn start> <with [33]% chance>",
+"[+3] Sight",
+		"Can see over obstacles",
+]
+        "promotions": ["Dispatch Pillar"],
+    },
+    {
+        "name": "Dispatch Pillar II",
+        "unitType": "Link Species",
+        "movement": 0,
+        "strength": 20,
+        "cost": 0,
+        "uniques": [
+        "Only available <when number of [Evolution Level] is equal to [6]>",
+//"Consumes [-2] [Evolution Value]",
+"[1] free [Linked network] units appear <upon turn start> <with [66]% chance>",
+"[+4] Sight",
+		"Can see over obstacles",
+]
+        "promotions": ["Dispatch Pillar"],
+    },
+    {
+        "name": "Dispatch Pillar III",
+        "unitType": "Link Species",
+        "movement": 0,
+        "strength": 25,
+        "cost": 0,
+        "uniques": [
+        "Only available <when number of [Evolution Level] is equal to [8]>",
+//"Consumes [-3] [Evolution Value]",
+"[1] free [Linked network] units appear <upon turn start>",
+"[+5] Sight",
+		"Can see over obstacles",
+]
+        "promotions": ["Dispatch Pillar"],
+    },
+    {
+        "name": "Dispatch Pillar IV",
+        "unitType": "Link Species",
+        "movement": 0,
+        "strength": 30,
+        "cost": 0,
+        "uniques": [
+        "Only available <when number of [Evolution Level] is equal to [10]>",
+//"Consumes [-4] [Evolution Value]",
+"[1] free [Node] units appear <upon turn start>",
+"[+6] Sight",
+		"Can see over obstacles",
+]
+        "promotions": ["Dispatch Pillar"],
+    },
+    
+    
+    {
+        "name": "Ancient Overlord",//远古君魔
+        "unitType": "Ancestral Species",
+        "movement": 3,
+        "strength": 30,
+        "rangedStrength": 30,
+		"range": 5,
+        "cost": 0,
+        "uniques": [
+        "[2] additional attacks per turn",
+"Never appears as a Barbarian unit",
+"Ranged attacks may be performed over obstacles",
+"Consumes [1] [Ancestral Species Max]",
+
+
+"[+1]% Strength bonus for [Military] units within [10] tiles",
+"[+2]% Strength bonus for [Military] units within [9] tiles",
+"[+3]% Strength bonus for [Military] units within [8] tiles",
+"[+4]% Strength bonus for [Military] units within [7] tiles",
+"[+5]% Strength bonus for [Military] units within [6] tiles",
+"[+6]% Strength bonus for [Military] units within [5] tiles",
+"[+7]% Strength bonus for [Military] units within [4] tiles",
+"[+8]% Strength bonus for [Military] units within [3] tiles",
+"[+9]% Strength bonus for [Military] units within [2] tiles",
+"[+10]% Strength bonus for [Military] units within [1] tiles",
+
+
+
+
+
+
+
+
+
+]
+"promotions": ["Beckon Stage III"],
+    },
+    {
+        "name": "Ancient Dreadnaut",//远古惧魔
+        "unitType": "Ancestral Species",
+        "movement": 3,
+        "strength": 40,
+        "cost": 0,
+        "uniques": [
+        "[2] additional attacks per turn",
+"Never appears as a Barbarian unit",
+"Consumes [-1] [Ancestral Species Max]",
+"[+1]% Strength bonus for [Military] units within [10] tiles",
+"[+2]% Strength bonus for [Military] units within [9] tiles",
+"[+3]% Strength bonus for [Military] units within [8] tiles",
+"[+4]% Strength bonus for [Military] units within [7] tiles",
+"[+5]% Strength bonus for [Military] units within [6] tiles",
+"[+6]% Strength bonus for [Military] units within [5] tiles",
+"[+7]% Strength bonus for [Military] units within [4] tiles",
+"[+8]% Strength bonus for [Military] units within [3] tiles",
+"[+9]% Strength bonus for [Military] units within [2] tiles",
+"[+10]% Strength bonus for [Military] units within [1] tiles",
+]
+"promotions": ["Beckon Stage IV"],
+    },
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     {
         "name": "World Purification Core",
         "unitType": "World Purification Core",
@@ -324,6 +532,8 @@
 "[This Unit] takes [100] damage <when below [1000] [Gold]> <upon turn start>",
 "Consumes [-4] [Progress of world purification]",
 "Unbuildable", "Uncapturable",
+"[+6] Sight",
+		"Can see over obstacles",
 ]
     },
     

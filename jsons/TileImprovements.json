@@ -30,5 +30,21 @@
 		"Provides a random bonus when entered",
 		],
         "civilopediaText": [{"text":"Home to uncivilized barbarians, will spawn a hostile unit from time to time"}]
-	}
+	},
+	
+	
+	
+	
+	
+	{
+		"name": "Remove Eroded land",
+		"turnsToBuild": 15,
+		//"techRequired": "Starting tech",
+		"uniques": ["Can be built outside your borders",
+		
+		
+		],
+	},
+	
+	
 ]

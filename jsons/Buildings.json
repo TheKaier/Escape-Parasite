@@ -7,7 +7,7 @@
         //"Unbuildable",
         "Only available <when above [99] [Progress of world purification]>",
         "Automatically built in all cities where it is buildable",
-        
+        "Triggers a [PlotEnd] event",
         ]
     },
     {
@@ -16,7 +16,7 @@
         "isWonder": true,
         "uniques":[
         //"Unbuildable",
-        "Only available <when above [4] [Communication Text]>",
+        "Only available <when above [4] [Communication Text]> <when above [1] [Ancestor Core]>",
         "Triggers a [World Purification War] event",
         ]
     },

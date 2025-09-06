@@ -1,13 +1,35 @@
 [
     {
-        "name": "Beckon Stage",
+        "name": "Link Species",//连结
         "movementType": "Land"
         "uniques": [
         "Parasite",
-        "Only available <when above [1] [Evolution Value]>",
         "Uncapturable",
+        "Only available <when above [1] [Evolution Value]>",
+        "Unit will heal every turn, even if it performs an action",
         ]
     },
+    {
+        "name": "Congenital Species",//先天
+        "movementType": "Land"
+        "uniques": [
+        "Parasite",
+        "Uncapturable",
+        "Only available <when above [1] [Evolution Value]>",
+        "Unit will heal every turn, even if it performs an action",
+        ]
+    },
+    {
+        "name": "Deterrence Species",//威慑
+        "movementType": "Land"
+        "uniques": [
+        "Parasite",
+        "Uncapturable",
+        "Only available <when above [1] [Evolution Value]>",
+        "Unit will heal every turn, even if it performs an action",
+        ]
+    },
+    
     {
         "name": "Primordial Species",
         "movementType": "Land"
@@ -15,7 +37,8 @@
         "Parasite",
         "Only available <when above [1] [Evolution Value]>",
         //"[Target Unit] gains the [Parasitic infection] status for [5] turn(s) <upon damaging a [All] unit>",
-        
+        "Instantly provides [3] [Evolution Value]",//寄生虫诞生
+    "Instantly provides [3] [Evolution Value] <upon being defeated>",//寄生虫死亡
         ]
     },
     {
@@ -25,7 +48,8 @@
         "Parasite",
         "Only available <when above [1] [Evolution Value]>",
         //"[Target Unit] gains the [Parasitic infection] status for [10] turn(s) <upon damaging a [All] unit>",
-        
+        "Instantly provides [3] [Evolution Value]",//寄生虫诞生
+    "Instantly provides [3] [Evolution Value] <upon being defeated>",//寄生虫死亡
         ]
     },
     {
@@ -36,7 +60,8 @@
         "Only available <when above [1] [Evolution Value]>",
         "May travel on Water tiles without embarking",
         //"[Target Unit] gains the [Parasitic infection] status for [20] turn(s) <upon damaging a [All] unit>",
-        
+        "Instantly provides [3] [Evolution Value]",//寄生虫诞生
+    "Instantly provides [3] [Evolution Value] <upon being defeated>",//寄生虫死亡
         ]
     },
     {
@@ -51,10 +76,27 @@
         "Unit will heal every turn, even if it performs an action",
         "Ignores Zone of Control",
         //"[Target Unit] gains the [Parasitic infection] status for [50] turn(s) <upon damaging a [All] unit>",
+        "Instantly provides [3] [Evolution Value]",//寄生虫诞生
+    "Instantly provides [3] [Evolution Value] <upon being defeated>",//寄生虫死亡
+        ]
+    },
+    {
+        "name": "Ancestral Species",//始祖
+        "movementType": "Land"
+        "uniques": [
+        "Parasite",
+        "Only available <when above [1] [Evolution Value]>",
+        "May travel on Water tiles without embarking",
+        "All tiles cost 1 movement",
+        "Can move after attacking",
+        "Unit will heal every turn, even if it performs an action",
+        "Ignores Zone of Control",
+        //"[Target Unit] gains the [Parasitic infection] status for [50] turn(s) <upon damaging a [All] unit>",
+        
+        
         
         ]
     },
-    
     
     
     

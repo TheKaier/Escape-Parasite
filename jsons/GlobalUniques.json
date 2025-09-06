@@ -2,7 +2,46 @@
     "name": "Global uniques",
     "uniques": [
     //"Rebel units may spawn",
-    //"Provides [3] [Evolution Value] <for [Barbarians] Civilizations>",
+    "Triggers a [Plot1] event <when number of [turns] is equal to [5]> <upon turn start>",
+    "Triggers a [Plot2] event <when number of [turns] is equal to [20]> <upon turn start>",
+    "Triggers a [Plot3] event <when number of [turns] is equal to [40]> <upon turn start>",
+    "Triggers a [Plot4] event <when number of [turns] is equal to [60]> <upon turn start>",
+    "Triggers a [Plot5] event <when number of [turns] is equal to [85]> <upon turn start>",
+    "Triggers a [Plot6] event <when number of [turns] is equal to [110]> <upon turn start>",
+    "Triggers a [Plot7] event <when number of [turns] is equal to [125]> <upon turn start>",
+    "Triggers a [Plot10] event <when number of [turns] is equal to [150]> <upon turn start>",
+    
+    //一阶0
+    "Provides [1] [Evolution Level] <when above [-1] [Evolution Value]>",
+    //二阶250
+    "Provides [1] [Evolution Level] <when above [249] [Evolution Value]>",
+    //三阶550
+    "Provides [1] [Evolution Level] <when above [549] [Evolution Value]>",
+    //四阶900
+    "Provides [1] [Evolution Level] <when above [899] [Evolution Value]>",
+    //五阶1500
+    "Provides [1] [Evolution Level] <when above [1499] [Evolution Value]>",
+    //六阶2000
+    "Provides [1] [Evolution Level] <when above [1999] [Evolution Value]>",
+    //七阶2800
+    "Provides [1] [Evolution Level] <when above [2799] [Evolution Value]>",
+    //八阶3600
+    "Provides [1] [Evolution Level] <when above [3599] [Evolution Value]>",
+    //九阶4500
+    "Provides [1] [Evolution Level] <when above [4499] [Evolution Value]>",
+    //十阶6000
+    "Provides [1] [Evolution Level] <when above [5999] [Evolution Value]>",
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     
     
     

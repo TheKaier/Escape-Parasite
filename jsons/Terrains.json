@@ -8,7 +8,19 @@
 		
 		]
 	},
-
+{
+		"name": "Eroded land",
+		"type": "TerrainFeature",
+		//"food": -1,
+		"movementCost": 1,
+		"unbuildable": true,
+		//"defenceBonus": -0.15,
+		"occursOn": ["Grassland","Plains","Desert","Tundra","Snow","Forest","Jungle","Hill","Flood plains","Marsh","Oasis","Coast","Ocean"],
+		"uniques": [
+		"Nullifies all other stats this tile provides",
+		"Doesn't generate naturally",
+		],
+	},
 
 
 

@@ -2,18 +2,7 @@
     {
     "name": "Parasite",
     "uniques": [
-    //"[This Unit] takes [100] damage <for [Civilian] units> <upon turn end>",
-    //"[1] free [Insect Spirit] units appear <for [non-[Parasite]] units> <upon turn end>",
-    //"May capture killed [All] units",
-    "Instantly provides [1] [Evolution Value] <upon being defeated>",
-    "Instantly provides [2] [Evolution Value] <upon defeating a [Wounded] unit>",
-    "[1] free [Insect Spirit] units appear <upon defeating a [Wounded] unit>",
-    
-    
-    
-    
-    
-    
+    //"[Target Unit] gains the [Parasite hunters] status for [10] turn(s) <upon damaging a [Military] unit>",
     
     
     "[+1]% Strength <for every [1] [Adaptation]>",
@@ -34,12 +23,29 @@
     
     ],
     },
+    
+    
+    {
+    "name": "Call of the Hive",//寄巢之唤
+    "uniques": [
+    "Turn this tile into a [Eroded land] tile <in tiles without [Eroded land]> <upon being defeated>",
+    "[Target Unit] gains the [Call of the Hive] status for [10] turn(s) <upon damaging a [Military] unit>",
+    "Instantly provides [1] [Ancestor Core] <upon defeating a [Ancestral Species] unit>",//
+    ],
+    },
+    
+    
     {
     "name": "Parasitic infection",
     "uniques": [
     "[This Unit] takes [5] damage <upon turn end>",
     ],
     },
+    
+    
+
+    
+    
     
     
     {
@@ -335,7 +341,72 @@
     
     
 
-    
+    {
+    "name": "Dispatch Pillar",
+    "uniques": [
+    "[This Unit] gains the [DP1s] promotion",
+    ],
+    },
+    {
+    "name": "DP1s",
+    "uniques": [
+    "[This Unit] loses the [DP4e] promotion <upon turn start>",
+    "[1] free [Sentry] units appear <with [33]% chance>",
+    "[This Unit] gains the [DP1e] promotion <upon turn end>",
+    ],
+    },
+    {
+    "name": "DP1e",
+    "uniques": [
+    "[This Unit] loses the [DP1s] promotion <upon turn start>",
+    "[This Unit] gains the [DP2s] promotion <upon turn end>",
+    ],
+    },
+    {
+    "name": "DP2s",
+    "uniques": [
+    "[This Unit] loses the [DP1e] promotion <upon turn start>",
+    "[1] free [Kyphosis] units appear <with [33]% chance>",
+    "[This Unit] gains the [DP2e] promotion <upon turn end>",
+    ],
+    },
+    {
+    "name": "DP2e",
+    "uniques": [
+    "[This Unit] loses the [DP2s] promotion <upon turn start>",
+    "[This Unit] gains the [DP3s] promotion <upon turn end>",
+    ],
+    },
+    {
+    "name": "DP3s",
+    "uniques": [
+    "[This Unit] loses the [DP2e] promotion <upon turn start>",
+    "[1] free [Sentry] units appear <with [33]% chance>",
+    "[This Unit] gains the [DP3e] promotion <upon turn end>",
+    ],
+    },
+    {
+    "name": "DP3e",
+    "uniques": [
+    "[This Unit] loses the [DP3s] promotion <upon turn start>",
+    "[This Unit] gains the [DP4s] promotion <upon turn end>",
+    ],
+    },
+    {
+    "name": "DP4s",
+    "uniques": [
+    "[This Unit] loses the [DP3e] promotion <upon turn start>",
+    "[1] free [Kyphosis] units appear <with [33]% chance>",
+    "[This Unit] gains the [DP4e] promotion <upon turn end>",
+    ],
+    },
+    {
+    "name": "DP4e",
+    "uniques": [
+    "[This Unit] loses the [DP4s] promotion <upon turn start>",
+    "[This Unit] gains the [DP1s] promotion <upon turn end>",
+    ],
+    },
     
     
     
