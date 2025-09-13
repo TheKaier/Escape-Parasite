@@ -99,6 +99,9 @@
     "Instantly provides [3] [Evolution Value] <upon being defeated>",//寄生虫死亡
     
     "[Target Unit] gains the [Call of the Hive] status for [10] turn(s) <upon entering a [Eroded land] tile>",
+    "[Target Unit] gains the [Call of the Hive] status for [10] turn(s) <upon damaging a [Military] unit>",
+    
+    
     
     "Instantly provides [1] [Adaptation] <upon losing at least [30] HP in a single attack>",
     "Instantly provides [1] [Adaptation] <upon losing at least [35] HP in a single attack>",
@@ -130,6 +133,9 @@
         //"[Target Unit] gains the [Parasitic infection] status for [50] turn(s) <upon damaging a [All] unit>",
         "Instantly provides [3] [Evolution Value]",//寄生虫诞生
     "Instantly provides [3] [Evolution Value] <upon being defeated>",//寄生虫死亡
+    "[Target Unit] gains the [Call of the Hive] status for [10] turn(s) <upon damaging a [Military] unit>",
+    
+    
     
     "Instantly provides [1] [Adaptation] <upon losing at least [25] HP in a single attack>",
     "Instantly provides [1] [Adaptation] <upon losing at least [30] HP in a single attack>",
@@ -160,7 +166,7 @@
         "Unit will heal every turn, even if it performs an action",
         "Ignores Zone of Control",
         //"[Target Unit] gains the [Parasitic infection] status for [50] turn(s) <upon damaging a [All] unit>",
-        
+        "[Target Unit] gains the [Call of the Hive] status for [10] turn(s) <upon damaging a [Military] unit>",
         
         "Instantly provides [1] [Adaptation] <upon losing at least [25] HP in a single attack>",
     "Instantly provides [1] [Adaptation] <upon losing at least [30] HP in a single attack>",

@@ -16,7 +16,7 @@
         "isWonder": true,
         "uniques":[
         //"Unbuildable",
-        "Only available <when above [4] [Communication Text]> <when above [1] [Ancestor Core]>",
+        "Only available <when above [4] [Communication Text]> <when above [0] [Ancestor Core]>",
         "Triggers a [World Purification War] event",
         ]
     },
