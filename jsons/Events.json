@@ -119,6 +119,8 @@
         {
         "text":"",
         "uniques":[
+        "Comment [Well done, you have successfully made it through layers of darkness and countless hardships. Thank you for experiencing the world of the Escaping Parasites. You can tell me in QQ group 926974044 or on my Discord post, and you will receive a reward of commemorative units.]",
+        
 		    ],
         },
         ]
@@ -128,7 +130,47 @@
     
     
     
-    
+    {
+        "name":"Human hero",
+        "text":"The green light from the communication tower shot up into the sky, and after an unsignaled noise, our instruments finally responded. Data from Base 101 is being transmitted to us, but after transferring a few files, our communication was blocked by something, The readable content in the file is only a few coordinates and one sentence. That sentence is confused, repeat these words, ancestor species, kill, evolution.",
+        "choices":[
+        {
+        "text":"",
+        "uniques":[
+        "[1] free [Younger brother Zhen] units appear",
+        
+		    ],
+        },
+        {
+        "text":"",
+        "uniques":[
+        "[1] free [Your old buddy] units appear",
+        
+		    ],
+        },
+        {
+        "text":"",
+        "uniques":[
+        "[1] free [sass] units appear",
+        
+		    ],
+        },
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        ]
+    },
     
     
     

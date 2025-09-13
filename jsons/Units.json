@@ -250,8 +250,12 @@
         "strength": 15,
         "cost": 0,
         "uniques": [
-        "Only available <when number of [Evolution Level] is equal to [3]>",
+        "Only available <when above [2] [Evolution Level]> <when below [5] [Evolution Level]>",
 //"Consumes [-1] [Evolution Value]",
+"[This Unit] takes [100] damage <when number of [Evolution Level] is equal to [5]> <upon turn end>",
+"[1] free [Beckon Stage II] units appear <when number of [Evolution Level] is equal to [5]> <upon turn end>",
+
+
 ]
         "promotions": ["Beckon Stage I"],
     },
@@ -262,8 +266,12 @@
         "strength": 20,
         "cost": 0,
         "uniques": [
-        "Only available <when number of [Evolution Level] is equal to [5]>",
+        "Only available <when above [4] [Evolution Level]> <when below [7] [Evolution Level]>",
 //"Consumes [-2] [Evolution Value]",
+"[This Unit] takes [100] damage <when number of [Evolution Level] is equal to [7]> <upon turn end>",
+"[1] free [Beckon Stage III] units appear <when number of [Evolution Level] is equal to [7]> <upon turn end>",
+
+
 ]
         "promotions": ["Beckon Stage II"],
     },
@@ -274,8 +282,12 @@
         "strength": 25,
         "cost": 0,
         "uniques": [
-        "Only available <when number of [Evolution Level] is equal to [7]>",
+        "Only available <when above [6] [Evolution Level]> <when below [9] [Evolution Level]>",
 //"Consumes [-3] [Evolution Value]",
+"[This Unit] takes [100] damage <when number of [Evolution Level] is equal to [9]> <upon turn end>",
+"[1] free [Beckon Stage IV] units appear <when number of [Evolution Level] is equal to [9]> <upon turn end>",
+
+
 ]
         "promotions": ["Beckon Stage III"],
     },
@@ -286,7 +298,7 @@
         "strength": 30,
         "cost": 0,
         "uniques": [
-        "Only available <when number of [Evolution Level] is equal to [9]>",
+        "Only available <when above [8] [Evolution Level]>",
 //"Consumes [-4] [Evolution Value]",
 //"[1] free [Node] units appear <upon turn start>",
 ]
@@ -331,7 +343,7 @@
 
 
 
-"Instantly consumes [1] [Adaptation] <upon losing at least [30] HP in a single attack>",
+/*"Instantly consumes [1] [Adaptation] <upon losing at least [30] HP in a single attack>",
     "Instantly consumes [1] [Adaptation] <upon losing at least [35] HP in a single attack>",
     "Instantly consumes [1] [Adaptation] <upon losing at least [40] HP in a single attack>",
     "Instantly consumes [1] [Adaptation] <upon losing at least [45] HP in a single attack>",
@@ -344,7 +356,7 @@
     "Instantly consumes [1] [Adaptation] <upon losing at least [80] HP in a single attack>",
     "Instantly consumes [1] [Adaptation] <upon losing at least [85] HP in a single attack>",
     "Instantly consumes [1] [Adaptation] <upon losing at least [90] HP in a single attack>",
-    "Instantly consumes [1] [Adaptation] <upon losing at least [95] HP in a single attack>",
+    "Instantly consumes [1] [Adaptation] <upon losing at least [95] HP in a single attack>",*/
 
 
 
@@ -360,6 +372,7 @@
         "uniques": [
 "Never appears as a Barbarian unit",
 "Turn this tile into a [Eroded land] tile <in tiles without [Eroded land]> <upon being defeated>",
+"[+2] Movement <in [Eroded land] tiles>",
 ]
     },
     {
@@ -391,11 +404,13 @@
         "strength": 15,
         "cost": 0,
         "uniques": [
-        "Only available <when number of [Evolution Level] is equal to [4]>",
+        "Only available <when above [3] [Evolution Level]> <when below [6] [Evolution Level]>",
 //"Consumes [-1] [Evolution Value]",
 "[1] free [Linked network] units appear <upon turn start> <with [33]% chance>",
 "[+3] Sight",
 		"Can see over obstacles",
+		"[This Unit] takes [100] damage <when number of [Evolution Level] is equal to [6]> <upon turn end>",
+"[1] free [Dispatch Pillar II] units appear <when number of [Evolution Level] is equal to [6]> <upon turn end>",
 ]
         "promotions": ["Dispatch Pillar"],
     },
@@ -406,11 +421,13 @@
         "strength": 20,
         "cost": 0,
         "uniques": [
-        "Only available <when number of [Evolution Level] is equal to [6]>",
+        "Only available <when above [5] [Evolution Level]> <when below [8] [Evolution Level]>",
 //"Consumes [-2] [Evolution Value]",
 "[1] free [Linked network] units appear <upon turn start> <with [66]% chance>",
 "[+4] Sight",
 		"Can see over obstacles",
+		"[This Unit] takes [100] damage <when number of [Evolution Level] is equal to [8]> <upon turn end>",
+"[1] free [Dispatch Pillar III] units appear <when number of [Evolution Level] is equal to [8]> <upon turn end>",
 ]
         "promotions": ["Dispatch Pillar"],
     },
@@ -421,11 +438,13 @@
         "strength": 25,
         "cost": 0,
         "uniques": [
-        "Only available <when number of [Evolution Level] is equal to [8]>",
+        "Only available <when above [7] [Evolution Level]> <when below [10] [Evolution Level]>",
 //"Consumes [-3] [Evolution Value]",
 "[1] free [Linked network] units appear <upon turn start>",
 "[+5] Sight",
 		"Can see over obstacles",
+		"[This Unit] takes [100] damage <when number of [Evolution Level] is equal to [10]> <upon turn end>",
+"[1] free [Dispatch Pillar IV] units appear <when number of [Evolution Level] is equal to [10]> <upon turn end>",
 ]
         "promotions": ["Dispatch Pillar"],
     },
@@ -436,7 +455,7 @@
         "strength": 30,
         "cost": 0,
         "uniques": [
-        "Only available <when number of [Evolution Level] is equal to [10]>",
+        "Only available <when above [9] [Evolution Level]>",
 //"Consumes [-4] [Evolution Value]",
 "[1] free [Node] units appear <upon turn start>",
 "[+6] Sight",
@@ -538,13 +557,99 @@
     },
     
     
-    
-    
-    
-    
-    
-    
-    
+    //增援单位
+    {
+		"name": "Human hero",//人类英雄
+		"unitType": "Evidence of resistance",
+		"uniques": [
+            "[+50]% Strength bonus for [Military] units within [0] tiles",
+            "[+15]% Strength bonus for [Military] units within [2] tiles",
+            "All adjacent units heal [+5] HP when healing",
+            
+            
+            "Unbuildable", "Uncapturable",
+			],
+		"movement": 3
+	},
+	{
+		"name": "Younger brother Zhen",//
+		"unitType": "Evidence of resistance",
+		"uniques": [
+		"The Pioneer",
+            "[+50]% Strength bonus for [Military] units within [0] tiles",
+            "All adjacent units heal [+15] HP when healing",
+    "May Paradrop to [{Friendly} {Land}] tiles up to [3] tiles away",
+            "Gain control over [all] tiles in a [0]-tile radius <[4] times>",
+            
+            "Unbuildable", "Uncapturable",
+			],
+		"movement": 3
+	},
+	{
+		"name": "Your old buddy",//
+		"unitType": "Evidence of resistance",
+		"uniques": [
+		"The Pioneer",
+            "[+50]% Strength bonus for [Military] units within [0] tiles",
+            "Gain control over [all] tiles in a [0]-tile radius <[4] times>",
+    "[+3] Sight",
+    "Can see over obstacles",
+    "Ignores Zone of Control",
+    "[+2] Movement",
+            
+            
+            "Unbuildable", "Uncapturable",
+			],
+		"movement": 3
+	},
+	/*{
+		"name": "sass",//
+		"unitType": "Evidence of resistance",
+		"uniques": [
+		"The Pioneer",
+            "[+50]% Strength bonus for [Military] units within [0] tiles",
+            
+            
+            
+            "Unbuildable", "Uncapturable",
+			],
+		"movement": 3
+	},*/
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	//The Pioneer = 先驱者
+    //The Navigator = 领航者
+    //The Successor = 后继者
+    //can choose uniques
+    //"[+15]% Strength bonus for [Military] units within [2] tiles",
+    //"[+20]% Strength bonus for [Military] units within [3] tiles",
+    //"All adjacent units heal [+5] HP when healing",
+    //"All adjacent units heal [+15] HP when healing",
+    //"May Paradrop to [{Friendly} {Land}] tiles up to [3] tiles away",
+    //"May Paradrop to [Land] tiles up to [5] tiles away",
+    //"May travel on Water tiles without embarking",
+    //"[+20]% Strength bonus for [Military] units within [2] tiles <in [Friendly Land] tiles>",
+    //"[+25]% Strength bonus for [Military] units within [3] tiles <in [Friendly Land] tiles>",
+    //"[+20]% Strength bonus for [Military] units within [2] tiles <in [Foreign Land] tiles>",
+    //"[+25]% Strength bonus for [Military] units within [3] tiles <in [Foreign Land] tiles>",
+    //"Can build [All] improvements on tiles",
+    //"Double movement in [Desert]",
+    //"[+30]% Strength bonus for [Military] units within [1] tiles",
+    //"Gain control over [all] tiles in a [0]-tile radius <[4] times>",
+    //"[+3] Sight",
+    //"Can see over obstacles",
+    //"Ignores Zone of Control",
+    //"[+2] Movement",
+    //"[-15]% Strength for enemy [Military] units in adjacent [All] tiles",
+    //
     
     
     

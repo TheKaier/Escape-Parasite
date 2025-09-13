@@ -29,6 +29,7 @@
         "Only available <when above [4] [Technical Information]>",
         "Instantly consumes [5] [Technical Information]",
         "Instantly provides [1] [Communication Text]",
+        "Triggers a [Human hero] event",
         "Remove [Communication Tower] [in this city] <hidden from users>",
         ]
     },

@@ -17,6 +17,7 @@
         "Uncapturable",
         "Only available <when above [1] [Evolution Value]>",
         "Unit will heal every turn, even if it performs an action",
+        
         ]
     },
     {
@@ -27,6 +28,7 @@
         "Uncapturable",
         "Only available <when above [1] [Evolution Value]>",
         "Unit will heal every turn, even if it performs an action",
+        
         ]
     },
     
@@ -39,6 +41,22 @@
         //"[Target Unit] gains the [Parasitic infection] status for [5] turn(s) <upon damaging a [All] unit>",
         "Instantly provides [3] [Evolution Value]",//寄生虫诞生
     "Instantly provides [3] [Evolution Value] <upon being defeated>",//寄生虫死亡
+    
+    "[Target Unit] gains the [Call of the Hive] status for [10] turn(s) <upon entering a [Eroded land] tile>",
+    
+    
+    "Instantly provides [1] [Adaptation] <upon losing at least [40] HP in a single attack>",
+    "Instantly provides [1] [Adaptation] <upon losing at least [45] HP in a single attack>",
+    "Instantly provides [1] [Adaptation] <upon losing at least [50] HP in a single attack>",
+    "Instantly provides [1] [Adaptation] <upon losing at least [55] HP in a single attack>",
+    "Instantly provides [1] [Adaptation] <upon losing at least [60] HP in a single attack>",
+    "Instantly provides [1] [Adaptation] <upon losing at least [65] HP in a single attack>",
+    "Instantly provides [1] [Adaptation] <upon losing at least [70] HP in a single attack>",
+    "Instantly provides [1] [Adaptation] <upon losing at least [75] HP in a single attack>",
+    "Instantly provides [1] [Adaptation] <upon losing at least [80] HP in a single attack>",
+    "Instantly provides [1] [Adaptation] <upon losing at least [85] HP in a single attack>",
+    "Instantly provides [1] [Adaptation] <upon losing at least [90] HP in a single attack>",
+    "Instantly provides [1] [Adaptation] <upon losing at least [95] HP in a single attack>",
         ]
     },
     {
@@ -50,6 +68,23 @@
         //"[Target Unit] gains the [Parasitic infection] status for [10] turn(s) <upon damaging a [All] unit>",
         "Instantly provides [3] [Evolution Value]",//寄生虫诞生
     "Instantly provides [3] [Evolution Value] <upon being defeated>",//寄生虫死亡
+    
+    "[Target Unit] gains the [Call of the Hive] status for [10] turn(s) <upon entering a [Eroded land] tile>",
+    
+    
+    "Instantly provides [1] [Adaptation] <upon losing at least [35] HP in a single attack>",
+    "Instantly provides [1] [Adaptation] <upon losing at least [40] HP in a single attack>",
+    "Instantly provides [1] [Adaptation] <upon losing at least [45] HP in a single attack>",
+    "Instantly provides [1] [Adaptation] <upon losing at least [50] HP in a single attack>",
+    "Instantly provides [1] [Adaptation] <upon losing at least [55] HP in a single attack>",
+    "Instantly provides [1] [Adaptation] <upon losing at least [60] HP in a single attack>",
+    "Instantly provides [1] [Adaptation] <upon losing at least [65] HP in a single attack>",
+    "Instantly provides [1] [Adaptation] <upon losing at least [70] HP in a single attack>",
+    "Instantly provides [1] [Adaptation] <upon losing at least [75] HP in a single attack>",
+    "Instantly provides [1] [Adaptation] <upon losing at least [80] HP in a single attack>",
+    "Instantly provides [1] [Adaptation] <upon losing at least [85] HP in a single attack>",
+    "Instantly provides [1] [Adaptation] <upon losing at least [90] HP in a single attack>",
+    "Instantly provides [1] [Adaptation] <upon losing at least [95] HP in a single attack>",
         ]
     },
     {
@@ -62,6 +97,23 @@
         //"[Target Unit] gains the [Parasitic infection] status for [20] turn(s) <upon damaging a [All] unit>",
         "Instantly provides [3] [Evolution Value]",//寄生虫诞生
     "Instantly provides [3] [Evolution Value] <upon being defeated>",//寄生虫死亡
+    
+    "[Target Unit] gains the [Call of the Hive] status for [10] turn(s) <upon entering a [Eroded land] tile>",
+    
+    "Instantly provides [1] [Adaptation] <upon losing at least [30] HP in a single attack>",
+    "Instantly provides [1] [Adaptation] <upon losing at least [35] HP in a single attack>",
+    "Instantly provides [1] [Adaptation] <upon losing at least [40] HP in a single attack>",
+    "Instantly provides [1] [Adaptation] <upon losing at least [45] HP in a single attack>",
+    "Instantly provides [1] [Adaptation] <upon losing at least [50] HP in a single attack>",
+    "Instantly provides [1] [Adaptation] <upon losing at least [55] HP in a single attack>",
+    "Instantly provides [1] [Adaptation] <upon losing at least [60] HP in a single attack>",
+    "Instantly provides [1] [Adaptation] <upon losing at least [65] HP in a single attack>",
+    "Instantly provides [1] [Adaptation] <upon losing at least [70] HP in a single attack>",
+    "Instantly provides [1] [Adaptation] <upon losing at least [75] HP in a single attack>",
+    "Instantly provides [1] [Adaptation] <upon losing at least [80] HP in a single attack>",
+    "Instantly provides [1] [Adaptation] <upon losing at least [85] HP in a single attack>",
+    "Instantly provides [1] [Adaptation] <upon losing at least [90] HP in a single attack>",
+    "Instantly provides [1] [Adaptation] <upon losing at least [95] HP in a single attack>",
         ]
     },
     {
@@ -78,6 +130,22 @@
         //"[Target Unit] gains the [Parasitic infection] status for [50] turn(s) <upon damaging a [All] unit>",
         "Instantly provides [3] [Evolution Value]",//寄生虫诞生
     "Instantly provides [3] [Evolution Value] <upon being defeated>",//寄生虫死亡
+    
+    "Instantly provides [1] [Adaptation] <upon losing at least [25] HP in a single attack>",
+    "Instantly provides [1] [Adaptation] <upon losing at least [30] HP in a single attack>",
+    "Instantly provides [1] [Adaptation] <upon losing at least [35] HP in a single attack>",
+    "Instantly provides [1] [Adaptation] <upon losing at least [40] HP in a single attack>",
+    "Instantly provides [1] [Adaptation] <upon losing at least [45] HP in a single attack>",
+    "Instantly provides [1] [Adaptation] <upon losing at least [50] HP in a single attack>",
+    "Instantly provides [1] [Adaptation] <upon losing at least [55] HP in a single attack>",
+    "Instantly provides [1] [Adaptation] <upon losing at least [60] HP in a single attack>",
+    "Instantly provides [1] [Adaptation] <upon losing at least [65] HP in a single attack>",
+    "Instantly provides [1] [Adaptation] <upon losing at least [70] HP in a single attack>",
+    "Instantly provides [1] [Adaptation] <upon losing at least [75] HP in a single attack>",
+    "Instantly provides [1] [Adaptation] <upon losing at least [80] HP in a single attack>",
+    "Instantly provides [1] [Adaptation] <upon losing at least [85] HP in a single attack>",
+    "Instantly provides [1] [Adaptation] <upon losing at least [90] HP in a single attack>",
+    "Instantly provides [1] [Adaptation] <upon losing at least [95] HP in a single attack>",
         ]
     },
     {
@@ -94,14 +162,32 @@
         //"[Target Unit] gains the [Parasitic infection] status for [50] turn(s) <upon damaging a [All] unit>",
         
         
-        
+        "Instantly provides [1] [Adaptation] <upon losing at least [25] HP in a single attack>",
+    "Instantly provides [1] [Adaptation] <upon losing at least [30] HP in a single attack>",
+    "Instantly provides [1] [Adaptation] <upon losing at least [35] HP in a single attack>",
+    "Instantly provides [1] [Adaptation] <upon losing at least [40] HP in a single attack>",
+    "Instantly provides [1] [Adaptation] <upon losing at least [45] HP in a single attack>",
+    "Instantly provides [1] [Adaptation] <upon losing at least [50] HP in a single attack>",
+    "Instantly provides [1] [Adaptation] <upon losing at least [55] HP in a single attack>",
+    "Instantly provides [1] [Adaptation] <upon losing at least [60] HP in a single attack>",
+    "Instantly provides [1] [Adaptation] <upon losing at least [65] HP in a single attack>",
+    "Instantly provides [1] [Adaptation] <upon losing at least [70] HP in a single attack>",
+    "Instantly provides [1] [Adaptation] <upon losing at least [75] HP in a single attack>",
+    "Instantly provides [1] [Adaptation] <upon losing at least [80] HP in a single attack>",
+    "Instantly provides [1] [Adaptation] <upon losing at least [85] HP in a single attack>",
+    "Instantly provides [1] [Adaptation] <upon losing at least [90] HP in a single attack>",
+    "Instantly provides [1] [Adaptation] <upon losing at least [95] HP in a single attack>",
         ]
     },
     
     
     
     
-    
+    {
+        "name": "Evidence of resistance",
+        "movementType": "Land"
+        "uniques": ["Never appears as a Barbarian unit",]
+    },
     {
         "name": "World Purification Core",
         "movementType": "Land"
@@ -117,7 +203,10 @@
     {
         "name": "Sword",
         "movementType": "Land"
-        "uniques": ["Never appears as a Barbarian unit",]
+        "uniques": ["Never appears as a Barbarian unit",
+        
+        //"Instantly provides [2] [Technical Information] <upon entering a [Land] tile>",
+        ]
     },
     {
         "name": "Gunpowder",
