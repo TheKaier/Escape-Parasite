@@ -2,14 +2,14 @@
     "name": "Global uniques",
     "uniques": [
     //"Rebel units may spawn",
-    "Triggers a [Plot1] event <when number of [turns] is equal to [5]> <upon turn start>",
-    "Triggers a [Plot2] event <when number of [turns] is equal to [20]> <upon turn start>",
-    "Triggers a [Plot3] event <when number of [turns] is equal to [40]> <upon turn start>",
-    "Triggers a [Plot4] event <when number of [turns] is equal to [60]> <upon turn start>",
-    "Triggers a [Plot5] event <when number of [turns] is equal to [85]> <upon turn start>",
-    "Triggers a [Plot6] event <when number of [turns] is equal to [110]> <upon turn start>",
-    "Triggers a [Plot7] event <when number of [turns] is equal to [125]> <upon turn start>",
-    "Triggers a [Plot10] event <when number of [turns] is equal to [150]> <upon turn start>",
+    "Triggers a [Plot1] event <when number of [turns] is equal to [5]> <upon turn start> <when [The Wreck of the Gods] Victory is disabled>",
+    "Triggers a [Plot2] event <when number of [turns] is equal to [20]> <upon turn start> <when [The Wreck of the Gods] Victory is disabled>",
+    "Triggers a [Plot3] event <when number of [turns] is equal to [40]> <upon turn start> <when [The Wreck of the Gods] Victory is disabled>",
+    "Triggers a [Plot4] event <when number of [turns] is equal to [60]> <upon turn start> <when [The Wreck of the Gods] Victory is disabled>",
+    "Triggers a [Plot5] event <when number of [turns] is equal to [85]> <upon turn start> <when [The Wreck of the Gods] Victory is disabled>",
+    "Triggers a [Plot6] event <when number of [turns] is equal to [110]> <upon turn start> <when [The Wreck of the Gods] Victory is disabled>",
+    "Triggers a [Plot7] event <when number of [turns] is equal to [125]> <upon turn start> <when [The Wreck of the Gods] Victory is disabled>",
+    "Triggers a [Plot10] event <when number of [turns] is equal to [150]> <upon turn start> <when [The Wreck of the Gods] Victory is disabled>",
     
     //一阶0
     "Provides [1] [Evolution Level] <when above [-1] [Evolution Value]>",
@@ -40,6 +40,27 @@
     
     
 
+    
+    "Rebel units may spawn <if [World Purification Ritual] is constructed by anybody>",
+    
+    
+    "Triggers a [Parasitic12] event <when number of [Progress of world purification] is equal to [8]> <upon turn start>",
+    "Triggers a [Parasitic1] event <when number of [Progress of world purification] is equal to [16]> <upon turn start>",
+    "Triggers a [Parasitic2] event <when number of [Progress of world purification] is equal to [24]> <upon turn start>",
+    "Triggers a [Parasitic3] event <when number of [Progress of world purification] is equal to [32]> <upon turn start>",
+    "Triggers a [Parasitic4] event <when number of [Progress of world purification] is equal to [40]> <upon turn start>",
+    "Triggers a [Parasitic13] event <when number of [Progress of world purification] is equal to [44]> <upon turn start>",
+    "Triggers a [Parasitic5] event <when number of [Progress of world purification] is equal to [48]> <upon turn start>",
+    "Triggers a [Parasitic6] event <when number of [Progress of world purification] is equal to [52]> <upon turn start>",
+    "Triggers a [Parasitic7] event <when number of [Progress of world purification] is equal to [56]> <upon turn start>",
+    "Triggers a [Parasitic14] event <when number of [Progress of world purification] is equal to [60]> <upon turn start>",
+    "Triggers a [Parasitic8] event <when number of [Progress of world purification] is equal to [64]> <upon turn start>",
+    "Triggers a [Parasitic9] event <when number of [Progress of world purification] is equal to [68]> <upon turn start>",
+    "Triggers a [Parasitic10] event <when number of [Progress of world purification] is equal to [72]> <upon turn start>",
+    "Triggers a [Parasitic15] event <when number of [Progress of world purification] is equal to [76]> <upon turn start>",
+    "Triggers a [Parasitic11] event <when number of [Progress of world purification] is equal to [80]> <upon turn start>",
+    
+    
     
     
     

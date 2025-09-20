@@ -1,5 +1,13 @@
 [
     {
+        "name": "The Wreck of the Gods",
+        "cost": 0,
+        //"isNationWonder": true,
+        "uniques":[
+        "Unbuildable",
+        ]
+    },
+    {
         "name": "World Purification Complete",
         "cost": 0,
         //"isNationWonder": true,

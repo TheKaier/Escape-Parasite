@@ -3,9 +3,9 @@
 		"name": "Flesh and blood",
 		"type": "Land",
 		"RGB": [102, 102, 102],
-		"movementCost": 1,
+		"movementCost": 2,
 		"uniques": [
-		
+		"Rough terrain",
 		
 		]
 	},

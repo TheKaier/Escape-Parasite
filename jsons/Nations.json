@@ -2,8 +2,8 @@
 
 	{
 		"name": "Barbarians",
-		"outerColor": [0,0,0],
-        "innerColor": [185,12,12],
+		"outerColor": [255,255,255],
+        "innerColor": [255,255,255],
 		"uniques": [
 		"Excluded from map editor",
 			"[Parasite] units gain the [Parasite] promotion",
@@ -15,6 +15,26 @@
 			"Provides [1] [Ancestral Species Max]",
 			"Provides [2] [Ancestral Species Max] <if [World Purification Ritual] is constructed by anybody>",
 			
+			
+			//神之残骸<when [The Wreck of the Gods] Victory is enabled>
+			
+			"Provides [15] [Evolution Value] <when [The Wreck of the Gods] Victory is enabled>",
+			
+			
+			"[1] free [Beckon Stage III] units appear <when below [9] [Evolution Level]> <if [World Purification Ritual] is constructed by anybody> <upon turn start> <when [The Wreck of the Gods] Victory is enabled>",
+			"[1] free [Beckon Stage IV] units appear <when above [8] [Evolution Level]> <if [World Purification Ritual] is constructed by anybody> <upon turn start> <when [The Wreck of the Gods] Victory is enabled>",
+			
+			"[1] free [Dispatch Pillar III] units appear <when below [10] [Evolution Level]> <if [World Purification Ritual] is constructed by anybody> <upon turn start> <when [The Wreck of the Gods] Victory is enabled>",
+			"[1] free [Dispatch Pillar IV] units appear <when above [9] [Evolution Level]> <if [World Purification Ritual] is constructed by anybody> <upon turn start> <when [The Wreck of the Gods] Victory is enabled>",
+			
+			"[1] free [Ancient Overlord] units appear <if [World Purification Ritual] is constructed by anybody> <upon turn start> <when [The Wreck of the Gods] Victory is enabled>",
+			
+			"[1] free [Ancient Dreadnaut] units appear <if [World Purification Ritual] is constructed by anybody> <upon turn start> <when [The Wreck of the Gods] Victory is enabled>",
+			
+			"[1] free [[Exceptional Species] [Predator Beast]] units appear <if [World Purification Ritual] is constructed by anybody> <upon turn start> <when [The Wreck of the Gods] Victory is enabled>",
+			"[1] free [[Exceptional Species] [Hyperplastic Beast]] units appear <if [World Purification Ritual] is constructed by anybody> <upon turn start> <when [The Wreck of the Gods] Victory is enabled>",
+			"[1] free [[Exceptional Species] [Toxic Sac Beast]] units appear <if [World Purification Ritual] is constructed by anybody> <upon turn start> <when [The Wreck of the Gods] Victory is enabled>",
+			"[1] free [[Exceptional Species] [Armored Beast]] units appear <if [World Purification Ritual] is constructed by anybody> <upon turn start> <when [The Wreck of the Gods] Victory is enabled>",
 			]
 	}
 

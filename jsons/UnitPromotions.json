@@ -3,11 +3,12 @@
     "name": "Parasite",
     "uniques": [
     //"[Target Unit] gains the [Parasite hunters] status for [10] turn(s) <upon damaging a [Military] unit>",
-    
-    
+    "Double movement in [Flesh and blood]",
+    "Double movement in [Eroded land]",
     "[+1]% Strength <for every [1] [Adaptation]>",
-    
-    
+    "[+1]% Strength <for every [100] [Evolution Value]> <when [The Wreck of the Gods] Victory is enabled>",
+    "[Target Unit] gains the [Parasitic infection] status for [5] turn(s) <upon damaging a [Military] unit> <when [The Wreck of the Gods] Victory is enabled>",
+    "[This Unit] gains the [Parasitic infection] status for [5] turn(s) <upon damaging a [Military] unit> <when [The Wreck of the Gods] Victory is enabled>",
     ],
     },
     
@@ -18,6 +19,7 @@
     "Turn this tile into a [Eroded land] tile <in tiles without [Eroded land]> <upon being defeated>",
     "[Target Unit] gains the [Call of the Hive] status for [10] turn(s) <upon damaging a [Military] unit>",
     "Instantly provides [1] [Ancestor Core] <upon defeating a [Ancestral Species] unit>",//
+    
     ],
     },
     
@@ -25,13 +27,18 @@
     {
     "name": "Parasitic infection",
     "uniques": [
-    "[This Unit] takes [5] damage <upon turn end>",
+    "[This Unit] takes [5] damage <upon turn start>",
     ],
     },
     
-    
+    {
+    "name": "Parasitic Adaptation",
+    "uniques": [
+    "[+3]% Strength",
+    "Doing so will consume this opportunity to choose a Promotion",
+    ],
+    },
 
-    
     
     
     
@@ -46,6 +53,7 @@
     "uniques": [
     "[This Unit] loses the [I4e] promotion <upon turn start>",
     "[1] free [[Primordial Species] [Predator Beast]] units appear <with [33]% chance>",
+    "[1] free [[Primordial Species] [Predator Beast]] units appear <with [50]% chance> <when [The Wreck of the Gods] Victory is enabled>",
     "[This Unit] gains the [I1e] promotion <upon turn end>",
     ],
     },
@@ -61,6 +69,7 @@
     "uniques": [
     "[This Unit] loses the [I1e] promotion <upon turn start>",
     "[1] free [[Primordial Species] [Hyperplastic Beast]] units appear <with [33]% chance>",
+    "[1] free [[Primordial Species] [Hyperplastic Beast]] units appear <with [50]% chance> <when [The Wreck of the Gods] Victory is enabled>",
     "[This Unit] gains the [I2e] promotion <upon turn end>",
     ],
     },
@@ -76,6 +85,7 @@
     "uniques": [
     "[This Unit] loses the [I2e] promotion <upon turn start>",
     "[1] free [[Primordial Species] [Toxic Sac Beast]] units appear <with [33]% chance>",
+    "[1] free [[Primordial Species] [Toxic Sac Beast]] units appear <with [50]% chance> <when [The Wreck of the Gods] Victory is enabled>",
     "[This Unit] gains the [I3e] promotion <upon turn end>",
     ],
     },
@@ -91,6 +101,7 @@
     "uniques": [
     "[This Unit] loses the [I3e] promotion <upon turn start>",
     "[1] free [[Primordial Species] [Armored Beast]] units appear <with [33]% chance>",
+    "[1] free [[Primordial Species] [Armored Beast]] units appear <with [50]% chance> <when [The Wreck of the Gods] Victory is enabled>",
     "[This Unit] gains the [I4e] promotion <upon turn end>",
     ],
     },
@@ -116,6 +127,7 @@
     "uniques": [
     "[This Unit] loses the [II4e] promotion <upon turn start>",
     "[1] free [[Adapted Species] [Predator Beast]] units appear <with [33]% chance>",
+    "[1] free [[Adapted Species] [Predator Beast]] units appear <with [50]% chance> <when [The Wreck of the Gods] Victory is enabled>",
     "[This Unit] gains the [II1e] promotion <upon turn end>",
     ],
     },
@@ -131,6 +143,7 @@
     "uniques": [
     "[This Unit] loses the [II1e] promotion <upon turn start>",
     "[1] free [[Adapted Species] [Hyperplastic Beast]] units appear <with [33]% chance>",
+    "[1] free [[Adapted Species] [Hyperplastic Beast]] units appear <with [50]% chance> <when [The Wreck of the Gods] Victory is enabled>",
     "[This Unit] gains the [II2e] promotion <upon turn end>",
     ],
     },
@@ -146,6 +159,7 @@
     "uniques": [
     "[This Unit] loses the [II2e] promotion <upon turn start>",
     "[1] free [[Adapted Species] [Toxic Sac Beast]] units appear <with [33]% chance>",
+    "[1] free [[Adapted Species] [Toxic Sac Beast]] units appear <with [50]% chance> <when [The Wreck of the Gods] Victory is enabled>",
     "[This Unit] gains the [II3e] promotion <upon turn end>",
     ],
     },
@@ -161,6 +175,7 @@
     "uniques": [
     "[This Unit] loses the [II3e] promotion <upon turn start>",
     "[1] free [[Adapted Species] [Armored Beast]] units appear <with [33]% chance>",
+    "[1] free [[Adapted Species] [Armored Beast]] units appear <with [50]% chance> <when [The Wreck of the Gods] Victory is enabled>",
     "[This Unit] gains the [II4e] promotion <upon turn end>",
     ],
     },
@@ -191,6 +206,7 @@
     "uniques": [
     "[This Unit] loses the [III4e] promotion <upon turn start>",
     "[1] free [[Pure Species] [Predator Beast]] units appear <with [33]% chance>",
+    "[1] free [[Pure Species] [Predator Beast]] units appear <with [50]% chance> <when [The Wreck of the Gods] Victory is enabled>",
     "[This Unit] gains the [III1e] promotion <upon turn end>",
     ],
     },
@@ -206,6 +222,7 @@
     "uniques": [
     "[This Unit] loses the [III1e] promotion <upon turn start>",
     "[1] free [[Pure Species] [Hyperplastic Beast]] units appear <with [33]% chance>",
+    "[1] free [[Pure Species] [Hyperplastic Beast]] units appear <with [50]% chance> <when [The Wreck of the Gods] Victory is enabled>",
     "[This Unit] gains the [III2e] promotion <upon turn end>",
     ],
     },
@@ -221,6 +238,7 @@
     "uniques": [
     "[This Unit] loses the [III2e] promotion <upon turn start>",
     "[1] free [[Pure Species] [Toxic Sac Beast]] units appear <with [33]% chance>",
+    "[1] free [[Pure Species] [Toxic Sac Beast]] units appear <with [50]% chance> <when [The Wreck of the Gods] Victory is enabled>",
     "[This Unit] gains the [III3e] promotion <upon turn end>",
     ],
     },
@@ -236,6 +254,7 @@
     "uniques": [
     "[This Unit] loses the [III3e] promotion <upon turn start>",
     "[1] free [[Pure Species] [Armored Beast]] units appear <with [33]% chance>",
+    "[1] free [[Pure Species] [Armored Beast]] units appear <with [50]% chance> <when [The Wreck of the Gods] Victory is enabled>",
     "[This Unit] gains the [III4e] promotion <upon turn end>",
     ],
     },
@@ -267,6 +286,7 @@
     "uniques": [
     "[This Unit] loses the [IV4e] promotion <upon turn start>",
     "[1] free [[Exceptional Species] [Predator Beast]] units appear <with [33]% chance>",
+    "[1] free [[Exceptional Species] [Predator Beast]] units appear <with [50]% chance> <when [The Wreck of the Gods] Victory is enabled>",
     "[This Unit] gains the [IV1e] promotion <upon turn end>",
     ],
     },
@@ -282,6 +302,7 @@
     "uniques": [
     "[This Unit] loses the [IV1e] promotion <upon turn start>",
     "[1] free [[Exceptional Species] [Hyperplastic Beast]] units appear <with [33]% chance>",
+    "[1] free [[Exceptional Species] [Hyperplastic Beast]] units appear <with [50]% chance> <when [The Wreck of the Gods] Victory is enabled>",
     "[This Unit] gains the [IV2e] promotion <upon turn end>",
     ],
     },
@@ -297,6 +318,7 @@
     "uniques": [
     "[This Unit] loses the [IV2e] promotion <upon turn start>",
     "[1] free [[Exceptional Species] [Toxic Sac Beast]] units appear <with [33]% chance>",
+    "[1] free [[Exceptional Species] [Toxic Sac Beast]] units appear <with [50]% chance> <when [The Wreck of the Gods] Victory is enabled>",
     "[This Unit] gains the [IV3e] promotion <upon turn end>",
     ],
     },
@@ -312,6 +334,7 @@
     "uniques": [
     "[This Unit] loses the [IV3e] promotion <upon turn start>",
     "[1] free [[Exceptional Species] [Armored Beast]] units appear <with [33]% chance>",
+    "[1] free [[Exceptional Species] [Armored Beast]] units appear <with [50]% chance> <when [The Wreck of the Gods] Victory is enabled>",
     "[This Unit] gains the [IV4e] promotion <upon turn end>",
     ],
     },
@@ -339,6 +362,7 @@
     "uniques": [
     "[This Unit] loses the [DP4e] promotion <upon turn start>",
     "[1] free [Sentry] units appear <with [33]% chance>",
+    "[1] free [Sentry] units appear <with [50]% chance> <when [The Wreck of the Gods] Victory is enabled>",
     "[This Unit] gains the [DP1e] promotion <upon turn end>",
     ],
     },
@@ -354,6 +378,7 @@
     "uniques": [
     "[This Unit] loses the [DP1e] promotion <upon turn start>",
     "[1] free [Kyphosis] units appear <with [33]% chance>",
+    "[1] free [Sentry] units appear <with [50]% chance> <when [The Wreck of the Gods] Victory is enabled>",
     "[This Unit] gains the [DP2e] promotion <upon turn end>",
     ],
     },
@@ -369,6 +394,7 @@
     "uniques": [
     "[This Unit] loses the [DP2e] promotion <upon turn start>",
     "[1] free [Sentry] units appear <with [33]% chance>",
+    "[1] free [Sentry] units appear <with [50]% chance> <when [The Wreck of the Gods] Victory is enabled>",
     "[This Unit] gains the [DP3e] promotion <upon turn end>",
     ],
     },
@@ -384,6 +410,7 @@
     "uniques": [
     "[This Unit] loses the [DP3e] promotion <upon turn start>",
     "[1] free [Kyphosis] units appear <with [33]% chance>",
+    "[1] free [Sentry] units appear <with [50]% chance> <when [The Wreck of the Gods] Victory is enabled>",
     "[This Unit] gains the [DP4e] promotion <upon turn end>",
     ],
     },

@@ -129,6 +129,110 @@
     
     
     
+    {
+        "name":"Parasitic1",
+        "text":"Heaven",
+        "choices":[
+        {"text":"",
+        "uniques":[],},]},
+    {
+        "name":"Parasitic2",
+        "text":"Parasitic immortality",
+        "choices":[
+        {"text":"",
+        "uniques":[],},]},
+    {
+        "name":"Parasitic3",
+        "text":"So red, so sweet, blood",
+        "choices":[
+        {"text":"",
+        "uniques":[],},]},
+    {
+        "name":"Parasitic4",
+        "text":"It's food",
+        "choices":[
+        {"text":"",
+        "uniques":[],},]},
+    {
+        "name":"Parasitic5",
+        "text":"Run!",
+        "choices":[
+        {"text":"",
+        "uniques":[],},]},
+    {
+        "name":"Parasitic6",
+        "text":"Here... teach me... free me",
+        "choices":[
+        {"text":"",
+        "uniques":[],},]},
+    {
+        "name":"Parasitic7",
+        "text":"Body, good pain, eat you",
+        "choices":[
+        {"text":"",
+        "uniques":[],},]},
+    {
+        "name":"Parasitic8",
+        "text":"Destroy, devour, evolve",
+        "choices":[
+        {"text":"",
+        "uniques":[],},]},
+    {
+        "name":"Parasitic9",
+        "text":"A lot of voices... who... who's talking",
+        "choices":[
+        {"text":"",
+        "uniques":[],},]},
+    {
+        "name":"Parasitic10",
+        "text":"Stupid, arrogant, just human",
+        "choices":[
+        {"text":"",
+        "uniques":[],},]},
+    {
+        "name":"Parasitic11",
+        "text":"I will not back down!",
+        "choices":[
+        {"text":"",
+        "uniques":[],},]},
+        
+        
+        
+        
+        
+    {
+        "name":"Parasitic12",
+        "text":"Purebred anger, excellence for the road!",
+        "choices":[
+        {"text":"",
+        "uniques":[],},]},
+    {
+        "name":"Parasitic13",
+        "text":"The first ancestor comes, the blood spatters thousands of miles!",
+        "choices":[
+        {"text":"",
+        "uniques":[],},]},
+    {
+        "name":"Parasitic14",
+        "text":"The seed of adaptation, recast glory!",
+        "choices":[
+        {"text":"",
+        "uniques":[],},]},
+    {
+        "name":"Parasitic15",
+        "text":"Assimilate the herd and put up a fight!",
+        "choices":[
+        {"text":"",
+        "uniques":[],},]},
+    
+    
+    
+
+    
+    
+    
+    
+    
     
     {
         "name":"Human hero",

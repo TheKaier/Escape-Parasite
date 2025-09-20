@@ -194,7 +194,7 @@
         "name": "[Exceptional Species] [Predator Beast]",
         "unitType": "Exceptional Species",
         "movement": 4,
-        "strength": 25,
+        "strength": 26,
         "cost": 0,
         "uniques": [
 "Never appears as a Barbarian unit",
@@ -207,7 +207,7 @@
         "name": "[Exceptional Species] [Hyperplastic Beast]",
         "unitType": "Exceptional Species",
         "movement": 3,
-        "strength": 20,
+        "strength": 21,
         "cost": 0,
         "uniques": [
 "Never appears as a Barbarian unit",
@@ -222,8 +222,8 @@
         "name": "[Exceptional Species] [Toxic Sac Beast]",
         "unitType": "Exceptional Species",
         "movement": 3,
-        "strength": 17,
-        "rangedStrength": 21,
+        "strength": 18,
+        "rangedStrength": 22,
 		"range": 3,
         "cost": 0,
         "uniques": [
@@ -235,7 +235,7 @@
         "name": "[Exceptional Species] [Armored Beast]",
         "unitType": "Exceptional Species",
         "movement": 3,
-        "strength": 25,
+        "strength": 26,
         "cost": 0,
         "uniques": [
 "Never appears as a Barbarian unit",
@@ -254,7 +254,6 @@
 //"Consumes [-1] [Evolution Value]",
 "[This Unit] takes [100] damage <when number of [Evolution Level] is equal to [5]> <upon turn end>",
 "[1] free [Beckon Stage II] units appear <when number of [Evolution Level] is equal to [5]> <upon turn end>",
-
 
 ]
         "promotions": ["Beckon Stage I"],
@@ -367,7 +366,7 @@
         "name": "Kyphosis",//曲击柱
         "unitType": "Deterrence Species",
         "movement": 0,
-        "strength": 12,
+        "strength": 16,
         "cost": 0,
         "uniques": [
 "Never appears as a Barbarian unit",
@@ -379,8 +378,8 @@
         "name": "Sentry",//哨戒爪
         "unitType": "Deterrence Species",
         "movement": 0,
-        "strength": 8,
-        "rangedStrength": 11,
+        "strength": 10,
+        "rangedStrength": 12,
 		"range": 2,
         "cost": 0,
         "uniques": [
@@ -407,6 +406,7 @@
         "Only available <when above [3] [Evolution Level]> <when below [6] [Evolution Level]>",
 //"Consumes [-1] [Evolution Value]",
 "[1] free [Linked network] units appear <upon turn start> <with [33]% chance>",
+//"[1] free [Linked network] units appear <upon turn start> <with [50]% chance> <when [The Wreck of the Gods] Victory is enabled>",
 "[+3] Sight",
 		"Can see over obstacles",
 		"[This Unit] takes [100] damage <when number of [Evolution Level] is equal to [6]> <upon turn end>",
@@ -424,6 +424,7 @@
         "Only available <when above [5] [Evolution Level]> <when below [8] [Evolution Level]>",
 //"Consumes [-2] [Evolution Value]",
 "[1] free [Linked network] units appear <upon turn start> <with [66]% chance>",
+//"[1] free [Linked network] units appear <upon turn start> <with [50]% chance> <when [The Wreck of the Gods] Victory is enabled>",
 "[+4] Sight",
 		"Can see over obstacles",
 		"[This Unit] takes [100] damage <when number of [Evolution Level] is equal to [8]> <upon turn end>",
@@ -441,6 +442,7 @@
         "Only available <when above [7] [Evolution Level]> <when below [10] [Evolution Level]>",
 //"Consumes [-3] [Evolution Value]",
 "[1] free [Linked network] units appear <upon turn start>",
+//"[1] free [Linked network] units appear <upon turn start> <with [50]% chance> <when [The Wreck of the Gods] Victory is enabled>",
 "[+5] Sight",
 		"Can see over obstacles",
 		"[This Unit] takes [100] damage <when number of [Evolution Level] is equal to [10]> <upon turn end>",
@@ -458,6 +460,7 @@
         "Only available <when above [9] [Evolution Level]>",
 //"Consumes [-4] [Evolution Value]",
 "[1] free [Node] units appear <upon turn start>",
+//"[1] free [Node] units appear <upon turn start> <when [The Wreck of the Gods] Victory is enabled>",
 "[+6] Sight",
 		"Can see over obstacles",
 ]
@@ -468,9 +471,9 @@
     {
         "name": "Ancient Overlord",//远古君魔
         "unitType": "Ancestral Species",
-        "movement": 3,
-        "strength": 30,
-        "rangedStrength": 30,
+        "movement": 4,
+        "strength": 35,
+        "rangedStrength": 35,
 		"range": 5,
         "cost": 0,
         "uniques": [
@@ -505,8 +508,8 @@
     {
         "name": "Ancient Dreadnaut",//远古惧魔
         "unitType": "Ancestral Species",
-        "movement": 3,
-        "strength": 40,
+        "movement": 4,
+        "strength": 45,
         "cost": 0,
         "uniques": [
         "[2] additional attacks per turn",
@@ -549,7 +552,8 @@
         "uniques": [
 "Never appears as a Barbarian unit",
 "[This Unit] takes [100] damage <when below [1000] [Gold]> <upon turn start>",
-"Consumes [-4] [Progress of world purification]",
+"Consumes [-2] [Progress of world purification]",
+"Consumes [-2] [Progress of world purification] <when [The Wreck of the Gods] Victory is disabled>",
 "Unbuildable", "Uncapturable",
 "[+6] Sight",
 		"Can see over obstacles",
