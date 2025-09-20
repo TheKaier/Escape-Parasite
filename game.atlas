@@ -1,752 +1,747 @@
 
 game.png
-size: 2048, 2048
-format: RGBA8888
-filter: MipMapLinearLinear, MipMapLinearLinear
-repeat: none
-UnitIcons/Younger brother Zhen
-  rotate: false
-  xy: 4, 4
-  size: 1080, 1080
-  orig: 1080, 1080
-  offset: 0, 0
-  index: -1
-
-game2.png
-size: 2048, 2048
-format: RGBA8888
-filter: MipMapLinearLinear, MipMapLinearLinear
-repeat: none
-UnitIcons/Your old buddy
-  rotate: false
-  xy: 4, 4
-  size: 1080, 1080
-  orig: 1080, 1080
-  offset: 0, 0
-  index: -1
-
-game3.png
-size: 2048, 2048
+size: 2048, 1024
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 ResourceIcons/Ancestor Core
   rotate: false
-  xy: 1716, 1498
+  xy: 1404, 466
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 ResourceIcons/Ancestral Species Max
   rotate: false
-  xy: 1716, 1498
+  xy: 1404, 466
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 ResourceIcons/Communication Text
   rotate: false
-  xy: 1716, 1362
+  xy: 1812, 466
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 ResourceIcons/Evolution Value
   rotate: false
-  xy: 1852, 1498
+  xy: 476, 258
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
+ResourceIcons/Progress of world purification
+  rotate: false
+  xy: 340, 264
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
 ResourceIcons/Technical Information
   rotate: false
-  xy: 212, 548
+  xy: 748, 258
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Eroded land
   rotate: false
-  xy: 1924, 1978
+  xy: 268, 252
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Eroded land
   rotate: false
-  xy: 1924, 1978
+  xy: 268, 252
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 UnitIcons/Linked network
   rotate: false
-  xy: 1924, 1978
+  xy: 268, 252
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Flesh and blood
   rotate: false
-  xy: 348, 546
+  xy: 1564, 394
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Flesh and blood
   rotate: false
-  xy: 348, 546
+  xy: 1564, 394
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 UnitIcons/Node
   rotate: false
-  xy: 348, 546
+  xy: 1564, 394
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Ancient Dreadnaut
   rotate: false
-  xy: 1508, 1138
+  xy: 1540, 466
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Ancient Dreadnaut
   rotate: false
-  xy: 1508, 1138
+  xy: 1540, 466
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 UnitIcons/Ancient Dreadnaut
   rotate: false
-  xy: 1508, 1138
+  xy: 1540, 466
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Ancient Overlord
   rotate: false
-  xy: 1508, 1002
+  xy: 1676, 466
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Ancient Overlord
   rotate: false
-  xy: 1508, 1002
+  xy: 1676, 466
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 UnitIcons/Ancient Overlord
   rotate: false
-  xy: 1508, 1002
+  xy: 1676, 466
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Beckon Stage I
   rotate: false
-  xy: 1092, 1842
+  xy: 546, 810
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Beckon Stage I
   rotate: false
-  xy: 1092, 1842
+  xy: 546, 810
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Beckon Stage I
   rotate: false
-  xy: 1092, 1842
+  xy: 546, 810
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Beckon Stage II
   rotate: false
-  xy: 4, 476
+  xy: 4, 4
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Beckon Stage II
   rotate: false
-  xy: 4, 476
+  xy: 4, 4
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Beckon Stage II
   rotate: false
-  xy: 4, 476
+  xy: 4, 4
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Beckon Stage III
   rotate: false
-  xy: 282, 754
+  xy: 754, 810
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Beckon Stage III
   rotate: false
-  xy: 282, 754
+  xy: 754, 810
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Beckon Stage III
   rotate: false
-  xy: 282, 754
+  xy: 754, 810
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Beckon Stage IV
   rotate: false
-  xy: 1092, 1634
+  xy: 962, 810
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Beckon Stage IV
   rotate: false
-  xy: 1092, 1634
+  xy: 962, 810
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Beckon Stage IV
   rotate: false
-  xy: 1092, 1634
+  xy: 962, 810
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Dispatch Pillar I
   rotate: false
-  xy: 1300, 1842
+  xy: 1170, 810
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Dispatch Pillar I
   rotate: false
-  xy: 1300, 1842
+  xy: 1170, 810
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Dispatch Pillar I
   rotate: false
-  xy: 1300, 1842
+  xy: 1170, 810
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Dispatch Pillar II
   rotate: false
-  xy: 4, 268
+  xy: 1378, 810
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Dispatch Pillar II
   rotate: false
-  xy: 4, 268
+  xy: 1378, 810
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Dispatch Pillar II
   rotate: false
-  xy: 4, 268
+  xy: 1378, 810
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Dispatch Pillar III
   rotate: false
-  xy: 490, 754
+  xy: 1586, 810
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Dispatch Pillar III
   rotate: false
-  xy: 490, 754
+  xy: 1586, 810
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Dispatch Pillar III
   rotate: false
-  xy: 490, 754
+  xy: 1586, 810
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Dispatch Pillar IV
   rotate: false
-  xy: 1092, 1426
+  xy: 1794, 810
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Dispatch Pillar IV
   rotate: false
-  xy: 1092, 1426
+  xy: 1794, 810
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Dispatch Pillar IV
   rotate: false
-  xy: 1092, 1426
+  xy: 1794, 810
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Insect Spirit
   rotate: false
-  xy: 1852, 1362
+  xy: 612, 258
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Insect Spirit
   rotate: false
-  xy: 1852, 1362
+  xy: 612, 258
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 UnitIcons/Insect Spirit
   rotate: false
-  xy: 1852, 1362
+  xy: 612, 258
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Kyphosis
   rotate: false
-  xy: 1300, 1634
+  xy: 546, 602
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Kyphosis
   rotate: false
-  xy: 1300, 1634
+  xy: 546, 602
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Kyphosis
   rotate: false
-  xy: 1300, 1634
+  xy: 546, 602
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Sentry
   rotate: false
-  xy: 1508, 1842
+  xy: 754, 602
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Sentry
   rotate: false
-  xy: 1508, 1842
+  xy: 754, 602
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Sentry
   rotate: false
-  xy: 1508, 1842
+  xy: 754, 602
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/[Adapted Species] [Armored Beast]
   rotate: false
-  xy: 212, 412
+  xy: 884, 258
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/[Adapted Species] [Armored Beast]
   rotate: false
-  xy: 212, 412
+  xy: 884, 258
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 UnitIcons/[Adapted Species] [Armored Beast]
   rotate: false
-  xy: 212, 412
+  xy: 884, 258
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/[Adapted Species] [Hyperplastic Beast]
   rotate: false
-  xy: 4, 60
+  xy: 962, 602
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/[Adapted Species] [Hyperplastic Beast]
   rotate: false
-  xy: 4, 60
+  xy: 962, 602
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/[Adapted Species] [Hyperplastic Beast]
   rotate: false
-  xy: 4, 60
+  xy: 962, 602
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/[Adapted Species] [Predator Beast]
   rotate: false
-  xy: 212, 276
+  xy: 1020, 258
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/[Adapted Species] [Predator Beast]
   rotate: false
-  xy: 212, 276
+  xy: 1020, 258
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 UnitIcons/[Adapted Species] [Predator Beast]
   rotate: false
-  xy: 212, 276
+  xy: 1020, 258
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/[Adapted Species] [Toxic Sac Beast]
   rotate: false
-  xy: 698, 754
+  xy: 1170, 602
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/[Adapted Species] [Toxic Sac Beast]
   rotate: false
-  xy: 698, 754
+  xy: 1170, 602
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/[Adapted Species] [Toxic Sac Beast]
   rotate: false
-  xy: 698, 754
+  xy: 1170, 602
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/[Exceptional Species] [Armored Beast]
   rotate: false
-  xy: 1092, 1218
+  xy: 1378, 602
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/[Exceptional Species] [Armored Beast]
   rotate: false
-  xy: 1092, 1218
+  xy: 1378, 602
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/[Exceptional Species] [Armored Beast]
   rotate: false
-  xy: 1092, 1218
+  xy: 1378, 602
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/[Exceptional Species] [Hyperplastic Beast]
   rotate: false
-  xy: 1300, 1426
+  xy: 1586, 602
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/[Exceptional Species] [Hyperplastic Beast]
   rotate: false
-  xy: 1300, 1426
+  xy: 1586, 602
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/[Exceptional Species] [Hyperplastic Beast]
   rotate: false
-  xy: 1300, 1426
+  xy: 1586, 602
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/[Exceptional Species] [Predator Beast]
   rotate: false
-  xy: 1508, 1634
+  xy: 1794, 602
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/[Exceptional Species] [Predator Beast]
   rotate: false
-  xy: 1508, 1634
+  xy: 1794, 602
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/[Exceptional Species] [Predator Beast]
   rotate: false
-  xy: 1508, 1634
+  xy: 1794, 602
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/[Exceptional Species] [Toxic Sac Beast]
   rotate: false
-  xy: 212, 140
+  xy: 1156, 314
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/[Exceptional Species] [Toxic Sac Beast]
   rotate: false
-  xy: 212, 140
+  xy: 1156, 314
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 UnitIcons/[Exceptional Species] [Toxic Sac Beast]
   rotate: false
-  xy: 212, 140
+  xy: 1156, 314
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/[Primordial Species] [Armored Beast]
   rotate: false
-  xy: 1716, 1842
+  xy: 212, 4
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/[Primordial Species] [Armored Beast]
   rotate: false
-  xy: 1716, 1842
+  xy: 212, 4
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/[Primordial Species] [Armored Beast]
   rotate: false
-  xy: 1716, 1842
+  xy: 212, 4
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/[Primordial Species] [Hyperplastic Beast]
   rotate: false
-  xy: 1092, 1010
+  xy: 268, 532
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/[Primordial Species] [Hyperplastic Beast]
   rotate: false
-  xy: 1092, 1010
+  xy: 268, 532
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/[Primordial Species] [Hyperplastic Beast]
   rotate: false
-  xy: 1092, 1010
+  xy: 268, 532
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/[Primordial Species] [Predator Beast]
   rotate: false
-  xy: 212, 4
+  xy: 1292, 314
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/[Primordial Species] [Predator Beast]
   rotate: false
-  xy: 212, 4
+  xy: 1292, 314
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 UnitIcons/[Primordial Species] [Predator Beast]
   rotate: false
-  xy: 212, 4
+  xy: 1292, 314
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/[Primordial Species] [Toxic Sac Beast]
   rotate: false
-  xy: 1300, 1218
+  xy: 268, 324
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/[Primordial Species] [Toxic Sac Beast]
   rotate: false
-  xy: 1300, 1218
+  xy: 268, 324
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/[Primordial Species] [Toxic Sac Beast]
   rotate: false
-  xy: 1300, 1218
+  xy: 268, 324
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/[Pure Species] [Armored Beast]
   rotate: false
-  xy: 1508, 1426
+  xy: 476, 394
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/[Pure Species] [Armored Beast]
   rotate: false
-  xy: 1508, 1426
+  xy: 476, 394
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/[Pure Species] [Armored Beast]
   rotate: false
-  xy: 1508, 1426
+  xy: 476, 394
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/[Pure Species] [Hyperplastic Beast]
   rotate: false
-  xy: 1716, 1634
+  xy: 684, 394
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/[Pure Species] [Hyperplastic Beast]
   rotate: false
-  xy: 1716, 1634
+  xy: 684, 394
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/[Pure Species] [Hyperplastic Beast]
   rotate: false
-  xy: 1716, 1634
+  xy: 684, 394
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/[Pure Species] [Predator Beast]
   rotate: false
-  xy: 1300, 1010
+  xy: 892, 394
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/[Pure Species] [Predator Beast]
   rotate: false
-  xy: 1300, 1010
+  xy: 892, 394
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/[Pure Species] [Predator Beast]
   rotate: false
-  xy: 1300, 1010
+  xy: 892, 394
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/[Pure Species] [Toxic Sac Beast]
   rotate: false
-  xy: 348, 618
+  xy: 1428, 330
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/[Pure Species] [Toxic Sac Beast]
   rotate: false
-  xy: 348, 618
+  xy: 1428, 330
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 UnitIcons/[Pure Species] [Toxic Sac Beast]
   rotate: false
-  xy: 348, 618
+  xy: 1428, 330
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 UnitIcons/Human hero
   rotate: false
-  xy: 4, 684
+  xy: 4, 740
   size: 270, 270
   orig: 270, 270
   offset: 0, 0
   index: -1
+UnitIcons/Younger brother Zhen
+  rotate: false
+  xy: 4, 476
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+UnitIcons/Your old buddy
+  rotate: false
+  xy: 282, 754
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
 UnitIcons/sass
   rotate: false
-  xy: 4, 962
-  size: 1080, 1080
-  orig: 1080, 1080
+  xy: 4, 212
+  size: 256, 256
+  orig: 256, 256
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Adaptation
   rotate: false
-  xy: 906, 810
+  xy: 1100, 450
   size: 144, 144
   orig: 144, 144
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Call of the Hive
   rotate: false
-  xy: 1508, 1274
+  xy: 1252, 450
   size: 144, 144
   orig: 144, 144
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Parasitic infection
   rotate: false
-  xy: 1508, 1274
+  xy: 1252, 450
   size: 144, 144
   orig: 144, 144
   offset: 0, 0
