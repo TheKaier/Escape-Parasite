@@ -14,7 +14,13 @@
         "defeatString": "We have won. The parasites no longer hid themselves and attempted to seize the world with full force, allowing us to completely eradicate them. Although the parasites have been eliminated, the damage they caused remains, and it is up to us to restore everything."
     },
 
-
+{
+        "name": "Parasite transformation ritual",
+        "victoryScreenHeader": "Turning on this mode will allow civilization to use parasite units",
+        "milestones": ["Build [Parasite transformation ritual]","Destroy all players"],
+        "victoryString": "",
+        "defeatString": ""
+    },
 
 
 

@@ -1,5 +1,14 @@
 [
     {
+		"name": "Parasitosis",//寄生虫化
+		"resourceType": "Strategic",
+		"uniques": [
+		"Cannot be traded"//不能交易
+		"Stockpiled"//库存
+        //"Not shown on world screen",//不显示
+		]
+	},
+    {
 		"name": "Adaptation",//适应
 		"resourceType": "Strategic",
 		"uniques": [
@@ -8,6 +17,7 @@
         "Not shown on world screen",//不显示
 		]
 	},
+	
     {
 		"name": "Evolution Value",//演化值
 		"resourceType": "Strategic",

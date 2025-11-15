@@ -66,5 +66,13 @@
     
     
     
+    ],
+    "unitUniques": [
+    
+    "[This Unit] takes [100] damage <when above [0] [Parasitosis]> <upon turn start> <for [non-[Parasite]] units>",
+    "[This Unit] takes [100] damage <when below [0] [Parasitosis]> <upon turn start> <for [Parasite] units>",
+    
+    
+    
     ]
 }

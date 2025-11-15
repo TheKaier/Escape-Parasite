@@ -9,6 +9,7 @@
     "[+1]% Strength <for every [100] [Evolution Value]> <when [The Wreck of the Gods] Victory is enabled>",
     "[Target Unit] gains the [Parasitic infection] status for [5] turn(s) <upon damaging a [Military] unit> <when [The Wreck of the Gods] Victory is enabled>",
     "[This Unit] gains the [Parasitic infection] status for [5] turn(s) <upon damaging a [Military] unit> <when [The Wreck of the Gods] Victory is enabled>",
+    "Earn [20]% of the damage done to [All] units as [Gold]",
     ],
     },
     

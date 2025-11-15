@@ -6,6 +6,9 @@
         "innerColor": [255,255,255],
 		"uniques": [
 		"Excluded from map editor",
+		"Provides [1] [Parasitosis]",
+		"Provides [-100] [Parasitosis] <if [World Purification Complete] is constructed by anybody>",
+		
 			"[Parasite] units gain the [Parasite] promotion",
 			"Provides [15] [Evolution Value]",
 			"Provides [-100] [Evolution Level] <if [World Purification Complete] is constructed by anybody>",

@@ -1,5 +1,30 @@
 [//"Triggers a [事件名] event"
     {
+        "name":"Betrayal",
+        "text":"",
+        "civilopediaText":[
+			{"text":"As scarlet columns of the city's central minaret pierce the skyline, the parasite transformation ritual begins. A thick fog of green parasites spread from the center of the city, and an eerie red light shone in the sky, reflecting a blood pupil."},
+			{"text":},
+			{"text":},
+			{"text":"Hyphae climb around buildings, spore clouds condense into a sticky green curtain in the sky, and traces of civilization are rapidly being covered by parasites."},
+			{"text":},
+			{"text":},
+			{"text":"The ceremony was never adaptation, but transformation. When the last piece of uneroded land was flooded with spore fluid, this world no longer belongs to humans, but has become a parasite rampant proliferation of paradise."},
+			{"text":},
+			{"text":},
+			{"extraImage":"Parasite transformation", "imageSize":400},
+		],
+        "choices":[
+        {
+        "text":"There's a traitor in the human race",
+        "uniques":[
+        
+        //"Gain [1000] [Gold]",
+		    ],
+        },
+        ]
+    },
+    {
         "name":"World Purification War",
         "text":"Communication established. Surprisingly, there are survivors on the surface. Please protect the World Purification Core—we only have one chance. The fate of the world is in our hands.(Keep parasites away from our cities)",
         "choices":[
