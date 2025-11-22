@@ -5,6 +5,8 @@
     //"[Target Unit] gains the [Parasite hunters] status for [10] turn(s) <upon damaging a [Military] unit>",
     "Double movement in [Flesh and blood]",
     "Double movement in [Eroded land]",
+    //"[+1] Strength <for every [1] [Adaptation]>",
+    //"[+1] Strength <for every [500] [Evolution Value]> <when [The Wreck of the Gods] Victory is enabled>",
     "[+1]% Strength <for every [1] [Adaptation]>",
     "[+1]% Strength <for every [100] [Evolution Value]> <when [The Wreck of the Gods] Victory is enabled>",
     "[Target Unit] gains the [Parasitic infection] status for [5] turn(s) <upon damaging a [Military] unit> <when [The Wreck of the Gods] Victory is enabled>",
